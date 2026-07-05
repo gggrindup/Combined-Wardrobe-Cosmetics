@@ -1,0 +1,804 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Pelvis",
+      "position": {"x": 0, "y": 45, "z": 2},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "box",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 44, "y": 18, "z": 28}
+        },
+        "textureLayout": {
+          "back": {
+            "offset": {"x": 226, "y": 31},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "right": {
+            "offset": {"x": 242, "y": 108},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "front": {
+            "offset": {"x": 226, "y": 31},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "left": {
+            "offset": {"x": 270, "y": 108},
+            "mirror": {"x": true, "y": false},
+            "angle": 0
+          },
+          "top": {
+            "offset": {"x": 226, "y": 3},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "bottom": {
+            "offset": {"x": 226, "y": 3},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "Front_Cloth_1",
+          "position": {"x": 0, "y": 9, "z": 14},
+          "orientation": {"x": -0.08716, "y": 0, "z": 0, "w": 0.99619},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": -20, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 44, "y": 40},
+              "normal": "+Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 226, "y": 31},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "3",
+              "name": "Cloth-Front2",
+              "position": {"x": 0, "y": -20, "z": 0},
+              "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": 0, "y": -18, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 44, "y": 36},
+                  "normal": "+Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 226, "y": 71},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "4",
+                  "name": "Cloth-Front2-L",
+                  "position": {"x": 22, "y": 18, "z": 0},
+                  "orientation": {"x": 0, "y": 0.5, "z": 0, "w": 0.86603},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": 11, "y": -18, "z": 0},
+                    "stretch": {"x": -1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 22, "y": 36},
+                      "normal": "+Z"
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 204, "y": 71},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  }
+                },
+                {
+                  "id": "5",
+                  "name": "Cloth-Front2-R",
+                  "position": {"x": -22, "y": 18, "z": 0},
+                  "orientation": {"x": 0, "y": -0.5, "z": 0, "w": 0.86603},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": -11, "y": -18, "z": 0},
+                    "stretch": {"x": 1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 22, "y": 36},
+                      "normal": "+Z"
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 204, "y": 71},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "name": "Cloth-Front-L",
+              "position": {"x": 22, "y": 19, "z": 0},
+              "orientation": {"x": 0, "y": 0.5, "z": 0, "w": 0.86603},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": 11, "y": -19, "z": 0},
+                "stretch": {"x": -1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 22, "y": 40},
+                  "normal": "+Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 204, "y": 31},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            },
+            {
+              "id": "7",
+              "name": "Cloth-Front-R",
+              "position": {"x": -22, "y": 19, "z": 0},
+              "orientation": {"x": 0, "y": -0.5, "z": 0, "w": 0.86603},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": -11, "y": -19, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 22, "y": 40},
+                  "normal": "+Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 204, "y": 31},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            },
+            {
+              "id": "8",
+              "name": "Belt-Front",
+              "position": {"x": 0, "y": 21, "z": 1},
+              "orientation": {"x": -0.04362, "y": 0, "z": 0, "w": 0.99905},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": 0, "y": -13, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 44, "y": 26},
+                  "normal": "+Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 279, "y": 164},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "name": "Back_Cloth_1",
+          "position": {"x": 0, "y": 9, "z": -14},
+          "orientation": {"x": 0.08716, "y": 0, "z": 0, "w": 0.99619},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": -20, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 44, "y": 40},
+              "normal": "-Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 337, "y": 31},
+                "mirror": {"x": true, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "10",
+              "name": "Cloth-Back2",
+              "position": {"x": 0, "y": -20, "z": 0},
+              "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": 0, "y": -18, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 44, "y": 36},
+                  "normal": "-Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 337, "y": 71},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "11",
+                  "name": "Cloth-Back2-L",
+                  "position": {"x": 22, "y": 18, "z": 0},
+                  "orientation": {"x": 0, "y": -0.5, "z": 0, "w": 0.86603},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": 11, "y": -18, "z": 0},
+                    "stretch": {"x": -1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 22, "y": 36},
+                      "normal": "-Z"
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 293, "y": 71},
+                        "mirror": {"x": true, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  }
+                },
+                {
+                  "id": "12",
+                  "name": "Cloth-Back2-R",
+                  "position": {"x": -22, "y": 18, "z": 0},
+                  "orientation": {"x": 0, "y": 0.5, "z": 0, "w": 0.86603},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": -11, "y": -18, "z": 0},
+                    "stretch": {"x": 1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 22, "y": 36},
+                      "normal": "-Z"
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 293, "y": 71},
+                        "mirror": {"x": true, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "13",
+              "name": "Cloth-Back-L",
+              "position": {"x": 22, "y": 20, "z": 0},
+              "orientation": {"x": 0, "y": -0.5, "z": 0, "w": 0.86603},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": 11, "y": -20, "z": 0},
+                "stretch": {"x": -1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 22, "y": 40},
+                  "normal": "-Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 293, "y": 31},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            },
+            {
+              "id": "14",
+              "name": "Cloth-Back-R",
+              "position": {"x": -22, "y": 20, "z": 0},
+              "orientation": {"x": 0, "y": 0.5, "z": 0, "w": 0.86603},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": -11, "y": -20, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 22, "y": 40},
+                  "normal": "-Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 293, "y": 31},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            },
+            {
+              "id": "15",
+              "name": "Belt-Back",
+              "position": {"x": 0, "y": 21, "z": -0.5},
+              "orientation": {"x": 0.04362, "y": 0, "z": 0, "w": 0.99905},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": 0, "y": -13, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 44, "y": 26},
+                  "normal": "-Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 323, "y": 134},
+                    "mirror": {"x": true, "y": true},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "name": "L_Side_Cloth_1",
+          "position": {"x": 22, "y": 9, "z": 0},
+          "orientation": {"x": -0.0923, "y": 0.70106, "z": 0.0923, "w": 0.70106},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": -20, "z": 0},
+            "stretch": {"x": -1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 28, "y": 40},
+              "normal": "+Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 270, "y": 108},
+                "mirror": {"x": true, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "17",
+              "name": "Cloth-L2",
+              "position": {"x": 0, "y": -20, "z": -1},
+              "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": 0, "y": -18, "z": 1},
+                "stretch": {"x": -1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 28, "y": 36},
+                  "normal": "+Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 270, "y": 148},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "18",
+                  "name": "Cloth-L2-Front",
+                  "position": {"x": -14, "y": 18, "z": 0},
+                  "orientation": {"x": 0, "y": -0.60876, "z": 0, "w": 0.79335},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": -11, "y": -18, "z": 0},
+                    "stretch": {"x": 1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 22, "y": 36},
+                      "normal": "+Z"
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 220, "y": 148},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  }
+                },
+                {
+                  "id": "19",
+                  "name": "Cloth-L2-Back",
+                  "position": {"x": 14, "y": 18, "z": 0},
+                  "orientation": {"x": 0, "y": 0.79335, "z": 0, "w": -0.60876},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": -11, "y": -18, "z": 0},
+                    "stretch": {"x": 1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 22, "y": 36},
+                      "normal": "-Z"
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 242, "y": 148},
+                        "mirror": {"x": true, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "20",
+              "name": "Cloth-L-Front",
+              "position": {"x": -14, "y": 20, "z": 0},
+              "orientation": {"x": 0, "y": -0.60876, "z": 0, "w": 0.79335},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": -11, "y": -20, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 22, "y": 40},
+                  "normal": "+Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 220, "y": 108},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            },
+            {
+              "id": "21",
+              "name": "Cloth-L-Back",
+              "position": {"x": 14, "y": 20, "z": 0},
+              "orientation": {"x": 0, "y": 0.79335, "z": 0, "w": -0.60876},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": -11, "y": -20, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 22, "y": 40},
+                  "normal": "-Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 242, "y": 108},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "name": "R_Side_Cloth_1",
+          "position": {"x": -22, "y": 9, "z": 0},
+          "orientation": {"x": -0.0923, "y": -0.70106, "z": -0.0923, "w": 0.70106},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": -20, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 28, "y": 40},
+              "normal": "+Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 270, "y": 108},
+                "mirror": {"x": true, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "23",
+              "name": "Cloth-R2",
+              "position": {"x": 0, "y": -20, "z": -1},
+              "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": 0, "y": -18, "z": 1},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 28, "y": 36},
+                  "normal": "+Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 270, "y": 148},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "24",
+                  "name": "Cloth-R2-Front",
+                  "position": {"x": 14, "y": 18, "z": 0},
+                  "orientation": {"x": 0, "y": 0.60876, "z": 0, "w": 0.79335},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": 11, "y": -18, "z": 0},
+                    "stretch": {"x": -1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 22, "y": 36},
+                      "normal": "+Z"
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 220, "y": 148},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  }
+                },
+                {
+                  "id": "25",
+                  "name": "Cloth-R2-Back",
+                  "position": {"x": -14, "y": 18, "z": 0},
+                  "orientation": {"x": 0, "y": 0.79335, "z": 0, "w": 0.60876},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": 11, "y": -18, "z": 0},
+                    "stretch": {"x": -1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 22, "y": 36},
+                      "normal": "-Z"
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 242, "y": 148},
+                        "mirror": {"x": true, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "26",
+              "name": "Cloth-R-Front",
+              "position": {"x": 14, "y": 20, "z": 0},
+              "orientation": {"x": 0, "y": 0.60876, "z": 0, "w": 0.79335},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": 11, "y": -20, "z": 0},
+                "stretch": {"x": -1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 22, "y": 40},
+                  "normal": "+Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 220, "y": 108},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            },
+            {
+              "id": "27",
+              "name": "Cloth-R-Back",
+              "position": {"x": -14, "y": 20, "z": 0},
+              "orientation": {"x": 0, "y": 0.79335, "z": 0, "w": 0.60876},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": 11, "y": -20, "z": 0},
+                "stretch": {"x": -1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 22, "y": 40},
+                  "normal": "-Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 242, "y": 108},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "name": "Belt-Top",
+          "position": {"x": 0, "y": 10, "z": 0},
+          "orientation": {"x": -0.70711, "y": 0, "z": 0, "w": 0.70711},
+          "shape": {
+            "type": "quad",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 54, "y": 30},
+              "normal": "+Z"
+            },
+            "textureLayout": {
+              "front": {
+                "offset": {"x": 274, "y": 134},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": true,
+            "shadingMode": "flat"
+          }
+        }
+      ]
+    }
+  ],
+  "format": "character",
+  "lod": "auto"
+}

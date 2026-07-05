@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Zombie_Monk_Robes.name"
+    }
+  },
+  "CosmeticSlot": "Undertop",
+  "Appearance": {
+    "Model": "Characters/Overtops/HayHay_Zombie_Monk_Robes/HayHay_Zombie_Monk_Robes.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Overtops/HayHay_Zombie_Monk_Robes/HayHay_Zombie_Monk_Robes.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Zombie_Monk_Robes.png",
+  "IconProperties": {
+    "Scale": 0.37,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -46
+    ]
+  }
+}

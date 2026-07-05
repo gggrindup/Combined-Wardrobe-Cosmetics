@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Dry_Undead_Beard.name"
+    }
+  },
+  "CosmeticSlot": "FacialHair",
+  "Appearance": {
+    "Model": "Characters/Beards/HayHay_Dry_Undead_Beard_White/HayHay_Dry_Undead_Beard_White.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Beards/HayHay_Dry_Undead_Beard_White/HayHay_Dry_Undead_Beard_White.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Dry_Undead_Beard_White.png"
+}

@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Marauder_Legs.name"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Appearance": {
+    "Model": "Characters/Pants/HayHay_Marauder_Legs/HayHay_Marauder_Legs.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Pants/HayHay_Marauder_Legs/HayHay_Marauder_Legs.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Marauder_Legs.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -26
+    ]
+  }
+}

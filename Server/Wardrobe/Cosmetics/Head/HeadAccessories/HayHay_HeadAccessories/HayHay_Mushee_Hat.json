@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Mushee_Hat.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Mushee_Hat/Model.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Mushee_Hat/Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Mushee_Hat.png",
+  "IconProperties": {
+    "Scale": 0.8,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -3,
+      -108
+    ]
+  }
+}

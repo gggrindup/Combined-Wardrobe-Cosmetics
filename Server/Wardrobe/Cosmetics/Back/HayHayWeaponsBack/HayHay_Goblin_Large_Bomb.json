@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Goblin_Large_Bomb.name"
+    }
+  },
+  "CosmeticSlot": "HayHayWeaponsBack",
+  "Appearance": {
+    "Model": "Characters/Weapons/HayHay_Goblin_Large_Bomb/HayHay_Goblin_Large_Bomb.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Weapons/HayHay_Goblin_Large_Bomb/HayHay_Goblin_Large_Bomb.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Goblin_Large_Bomb.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -15
+    ]
+  }
+}

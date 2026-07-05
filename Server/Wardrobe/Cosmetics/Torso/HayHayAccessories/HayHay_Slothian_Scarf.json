@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Slothian_Scarf.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Slothian_Scarf/HayHay_Slothian_Scarf.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Slothian_Scarf/HayHay_Slothian_Scarf.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Slothian_Scarf.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      344,
+      0,
+      360
+    ],
+    "Translation": [
+      0,
+      -114
+    ]
+  }
+}

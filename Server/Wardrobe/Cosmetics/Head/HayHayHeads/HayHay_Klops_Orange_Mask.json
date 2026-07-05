@@ -1,0 +1,22 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Klops_Mask.name",
+      "Description": "server.items.HayHay_Klops_Orange_Mask.description"
+    }
+  },
+  "CosmeticSlot": "HayHayHeads",
+  "HiddenCosmeticSlots": [
+    "Ears",
+    "Haircut",
+    "EarAccessory",
+    "Face"
+  ],
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Klops_Orange_Mask/HayHay_Klops_Orange_Mask.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Klops_Orange_Mask/HayHay_Klops_Orange_Mask.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Klops_Orange_Mask.png"
+}

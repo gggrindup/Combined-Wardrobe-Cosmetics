@@ -1,0 +1,20 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Archmage_Hood.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "HiddenCosmeticSlots": [
+    "Ears",
+    "Haircut",
+    "EarAccessory"
+  ],
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Archmage_Hood/HayHay_Archmage_Hood.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Archmage_Hood/HayHay_Archmage_Hood.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Archmage_Hood.png"
+}

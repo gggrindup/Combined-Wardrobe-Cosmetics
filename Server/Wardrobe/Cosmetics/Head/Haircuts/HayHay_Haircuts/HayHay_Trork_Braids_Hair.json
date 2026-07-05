@@ -1,0 +1,260 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Trork_Braids_Hair.name"
+    }
+  },
+  "CosmeticSlot": "Haircut",
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Trork_Braids_Hair.png",
+  "Appearance": {
+    "Model": "Characters/Haircuts/HayHay_Trork_Braids_Hair/HayHay_Trork_Braids_Hair.blockymodel",
+    "TextureConfig": {
+      "Type": "Variant",
+      "Variants": {
+        "Black": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Black.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/Black.png",
+          "WardrobeColor": [
+            "#24213c"
+          ]
+        },
+        "Red": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Red.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/Red.png",
+          "WardrobeColor": [
+            "#c30f0c"
+          ]
+        },
+        "DarkRed": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Dark_Red.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/DarkRed.png",
+          "WardrobeColor": [
+            "#6e1414"
+          ]
+        },
+        "Pink": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Pink.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/Pink.png",
+          "WardrobeColor": [
+            "#bf306d"
+          ]
+        },
+        "BubblegumPink": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Bubblegum_Pink.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/Bubblegum.png",
+          "WardrobeColor": [
+            "#f589ab"
+          ]
+        },
+        "Blond": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Blond.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/Blond.png",
+          "WardrobeColor": [
+            "#d29e51"
+          ]
+        },
+        "BlondCaramel": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Blond_Caramel.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/BlondCaramel.png",
+          "WardrobeColor": [
+            "#b9995e"
+          ]
+        },
+        "BlondPlatinum": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Blond_Platinum.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/BlondPlatinum.png",
+          "WardrobeColor": [
+            "#f3da6a"
+          ]
+        },
+        "BlondSand": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Blond_Sand.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/BlondSand.png",
+          "WardrobeColor": [
+            "#dab284"
+          ]
+        },
+        "Blue": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Blue.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/Blue.png",
+          "WardrobeColor": [
+            "#2475a0"
+          ]
+        },
+        "BlueLight": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Blue_Light.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/BlueLight.png",
+          "WardrobeColor": [
+            "#8db9ca"
+          ]
+        },
+        "Brown": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Brown.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/Brown.png",
+          "WardrobeColor": [
+            "#5b260d"
+          ]
+        },
+        "BrownDark": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Dark_Brown.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/BrownDark.png",
+          "WardrobeColor": [
+            "#37191a"
+          ]
+        },
+        "LightBrown": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Light_Brown.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/BrownLight.png",
+          "WardrobeColor": [
+            "#774b1a"
+          ]
+        },
+        "Copper": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Copper.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/Copper.png",
+          "WardrobeColor": [
+            "#ca471a"
+          ]
+        },
+        "Green": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Green.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/Green.png",
+          "WardrobeColor": [
+            "#48a85c"
+          ]
+        },
+        "Grey": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Grey.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/Grey.png",
+          "WardrobeColor": [
+            "#767680"
+          ]
+        },
+        "GreyAsh": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Ash_Grey.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/GreyAsh.png",
+          "WardrobeColor": [
+            "#94846e"
+          ]
+        },
+        "Purple": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Purple.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/Purple.png",
+          "WardrobeColor": [
+            "#582b6c"
+          ]
+        },
+        "Turquoise": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_Turquoise.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/Turquoise.png",
+          "WardrobeColor": [
+            "#1f7c71"
+          ]
+        },
+        "White": {
+          "Properties": {
+            "Translation": {
+              "Name": "server.items.HayHay_White.name"
+            }
+          },
+          "Texture": "Characters/Haircuts/HayHay_Trork_Braids_Hair/White.png",
+          "WardrobeColor": [
+            "#cdcdce"
+          ]
+        }
+      }
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.46,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      5,
+      -81
+    ]
+  }
+}

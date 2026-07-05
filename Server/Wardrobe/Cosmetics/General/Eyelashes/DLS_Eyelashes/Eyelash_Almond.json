@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.DLS.eyelashes.Almond.name"
+    },
+    "Icon": "Icons/Wardrobe/Cosmetics/Eyelashes/Almond.png"
+  },
+  "CosmeticSlot": "Eyelashes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Eyelashes/DLSEyelashes.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/Eyelashes/Almond.png",
+      "GradientSet": "Hair"
+    }
+  }
+}

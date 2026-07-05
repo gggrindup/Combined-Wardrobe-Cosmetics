@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Diving_Shoes.name"
+    }
+  },
+  "CosmeticSlot": "Shoes",
+  "Appearance": {
+    "Model": "Characters/Shoes/HayHay_Diving_Shoes/HayHay_Diving_Shoes.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Shoes/HayHay_Diving_Shoes/HayHay_Diving_Shoes.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Diving_Shoes.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -9,
+      2
+    ]
+  }
+}

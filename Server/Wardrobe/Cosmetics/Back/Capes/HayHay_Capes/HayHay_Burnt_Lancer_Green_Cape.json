@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Burnt_Lancer_Green_Cape.name"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Model": "Characters/Capes/HayHay_Burnt_Lancer_Green_Cape/HayHay_Burnt_Lancer_Green_Cape.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Capes/HayHay_Burnt_Lancer_Green_Cape/HayHay_Burnt_Lancer_Green_Cape.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Burnt_Lancer_Green_Cape.png"
+}

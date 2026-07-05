@@ -1,0 +1,17 @@
+{
+  "Icon": "Icons/Wardrobe/Cosmetics/Eyes/Eyes_Big.png",
+  "CosmeticSlot": "Eyes",
+  "Appearance": {
+    "Model": "Characters/Body_Attachments/Eyes/Eyes.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Eyes_Gradient",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DJ_Eyes/Eyes_BigAlt.png"
+    }
+  },
+  "Properties": {
+    "Translation": {
+      "Name": "server.DeadJoy.eyes.BigAlt.name"
+    }
+  }
+}

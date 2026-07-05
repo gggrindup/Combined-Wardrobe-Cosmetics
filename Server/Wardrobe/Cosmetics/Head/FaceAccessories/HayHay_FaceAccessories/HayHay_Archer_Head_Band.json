@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Archer_Head_Band.name"
+    }
+  },
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Characters/FaceAccessories/HayHay_Archer_Head_Band/HayHay_Archer_Head_Band.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/FaceAccessories/HayHay_Archer_Head_Band/HayHay_Archer_Head_Band.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Archer_Head_Band.png"
+}

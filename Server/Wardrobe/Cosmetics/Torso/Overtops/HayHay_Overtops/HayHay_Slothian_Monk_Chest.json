@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Slothian_Monk_Chest.name"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Model": "Characters/Overtops/HayHay_Slothian_Monk_Chest/HayHay_Slothian_Monk_Chest.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Overtops/HayHay_Slothian_Monk_Chest/HayHay_Slothian_Monk_Chest.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Slothian_Monk_Chest.png",
+  "IconProperties": {
+    "Scale": 0.46,
+    "Rotation": [
+      359,
+      11,
+      24
+    ],
+    "Translation": [
+      8,
+      -14
+    ]
+  }
+}

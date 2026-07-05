@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Antelope_Horns.name"
+    }
+  },
+  "CosmeticSlot": "Horns",
+  "Appearance": {
+    "Model": "Characters/Horns/HayHay_Antelope_Horns/HayHay_Antelope_Horns.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Horns/HayHay_Antelope_Horns/HayHay_Antelope_Horns.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Antelope_Horns.png",
+  "IconProperties": {
+    "Scale": 0.46,
+    "Rotation": [
+      360,
+      45,
+      15
+    ],
+    "Translation": [
+      21,
+      -34
+    ]
+  }
+}

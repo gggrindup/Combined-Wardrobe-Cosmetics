@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Old_Brows.name"
+    }
+  },
+  "CosmeticSlot": "Eyebrows",
+  "Appearance": {
+    "Model": "Characters/Eyebrows/HayHay_Kweebec_Old_Brows/HayHay_Kweebec_Old_Brows.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Eyebrows/HayHay_Kweebec_Old_Brows/HayHay_Kweebec_Old_Brows.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Kweebec_Old_Brows.png"
+}

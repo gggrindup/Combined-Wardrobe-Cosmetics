@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Klops_Onion_Staff.name"
+    }
+  },
+  "CosmeticSlot": "HayHayWeaponsBack",
+  "Appearance": {
+    "Model": "Characters/Weapons/HayHay_Klops_Onion_Staff/HayHay_Klops_Onion_Staff.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Weapons/HayHay_Klops_Onion_Staff/HayHay_Klops_Onion_Staff.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Klops_Onion_Staff.png",
+  "IconProperties": {
+    "Scale": 0.27,
+    "Rotation": [
+      18,
+      44,
+      337
+    ],
+    "Translation": [
+      -27,
+      -53
+    ]
+  }
+}

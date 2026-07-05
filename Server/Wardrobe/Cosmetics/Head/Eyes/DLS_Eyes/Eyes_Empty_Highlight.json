@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.DLS.eyes.Empty.name"
+    },
+    "Icon": "Icons/Wardrobe/Cosmetics/DLSEyes/Eyes_Empty_Highlight.png"
+  },
+  "CosmeticSlot": "Eyes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DLSEyes/DLSEyes.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Body_Attachments/Eyes/Eyes_Textures/Eyes_Empty_Highlight.png",
+      "GradientSet": "Eyes_Gradient"
+    }
+  }
+}

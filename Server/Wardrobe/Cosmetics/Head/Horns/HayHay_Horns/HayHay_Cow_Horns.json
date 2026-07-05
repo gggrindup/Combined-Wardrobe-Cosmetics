@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Cow_Horns.name"
+    }
+  },
+  "CosmeticSlot": "Horns",
+  "Appearance": {
+    "Model": "Characters/Horns/HayHay_Cow_Horns/Model.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Horns/HayHay_Cow_Horns/Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Cow_Horns.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      32,
+      53,
+      27
+    ],
+    "Translation": [
+      -27,
+      -84
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Frost_Archmage_Cape.name"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Model": "Characters/Capes/HayHay_Frost_Archmage_Cape/HayHay_Frost_Archmage_Cape.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Capes/HayHay_Frost_Archmage_Cape/HayHay_Frost_Archmage_Cape.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Frost_Archmage_Cape.png"
+}

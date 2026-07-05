@@ -1,0 +1,30 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Santa_Hat.name",
+      "Description": "server.items.HayHay_Fantasy_Cotton_Dark.description"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Santa_Hat.png",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Santa_Hat/SantaHat.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Head/HayHay_Santa_Hat/SantaHat_Greyscale_Texture.png",
+      "GradientSet": "Fantasy_Cotton_Dark"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.46,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      1,
+      -13
+    ]
+  }
+}

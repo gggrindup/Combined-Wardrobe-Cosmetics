@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Heads.name"
+    }
+  },
+  "Category": "Head",
+  "SelectedIcon": "Icons/Wardrobe/Slots/HeadSlotSelected.png",
+  "Order": 3,
+  "Icon": "Icons/Wardrobe/Slots/HeadSlot.png",
+  "Camera": {
+    "Distance": 2,
+    "Y": 0,
+    "Yaw": 180,
+    "Pitch": -15
+  }
+}

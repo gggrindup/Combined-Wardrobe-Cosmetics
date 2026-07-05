@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Feran_Longtooth_Head.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Feran_Longtooth_Head/HayHay_Feran_Longtooth_Head.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Feran_Longtooth_Head/HayHay_Feran_Longtooth_Head.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Feran_Longtooth_Head.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -3
+    ]
+  }
+}

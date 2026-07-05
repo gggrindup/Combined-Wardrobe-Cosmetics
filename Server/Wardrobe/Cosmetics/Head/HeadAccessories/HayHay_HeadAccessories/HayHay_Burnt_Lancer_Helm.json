@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Burnt_Lancer_Helm.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Burnt_Lancer_Helm/HayHay_Burnt_Lancer_Helm.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Burnt_Lancer_Helm/HayHay_Burnt_Lancer_Helm.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Burnt_Lancer_Helm.png"
+}

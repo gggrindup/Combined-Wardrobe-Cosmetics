@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Rootling_Moptop.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Kweebec_Rootling_Moptop/HayHay_Kweebec_Rootling_Moptop.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Kweebec_Rootling_Moptop/HayHay_Kweebec_Rootling_Moptop.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Kweebec_Rootling_Moptop.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      4,
+      6,
+      345
+    ],
+    "Translation": [
+      -1,
+      -7
+    ]
+  }
+}

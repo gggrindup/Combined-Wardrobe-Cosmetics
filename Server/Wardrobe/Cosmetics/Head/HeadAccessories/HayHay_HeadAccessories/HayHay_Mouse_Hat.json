@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Mouse_Hat.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Mouse_Hat/HayHay_Mouse_Hat.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Mouse_Hat/HayHay_Mouse_Hat.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Mouse_Hat.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      2,
+      -12
+    ]
+  }
+}

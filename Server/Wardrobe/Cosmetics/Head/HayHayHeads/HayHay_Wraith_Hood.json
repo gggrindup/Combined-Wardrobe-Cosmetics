@@ -1,0 +1,32 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Wraith_Hood.name"
+    }
+  },
+  "CosmeticSlot": "HayHayHeads",
+  "HiddenCosmeticSlots": [
+    "Ears",
+    "Haircut",
+    "EarAccessory"
+  ],
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Wraith_Hood/HayHay_Wraith_Hood.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Wraith_Hood/HayHay_Wraith_Hood.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Wraith_Hood.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      4,
+      -72
+    ]
+  }
+}

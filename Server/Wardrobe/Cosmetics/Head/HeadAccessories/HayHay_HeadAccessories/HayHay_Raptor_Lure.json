@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Raptor_Lure.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Raptor_Lure/HayHay_Raptor_Lure.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Raptor_Lure/HayHay_Raptor_Lure.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Raptor_Lure.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      0,
+      48,
+      0
+    ],
+    "Translation": [
+      -16,
+      -21
+    ]
+  }
+}

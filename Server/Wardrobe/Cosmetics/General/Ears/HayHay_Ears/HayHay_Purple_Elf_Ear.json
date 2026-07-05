@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Purple_Elf_Ear.name"
+    }
+  },
+  "CosmeticSlot": "Ears",
+  "Appearance": {
+    "Model": "Characters/Ears/HayHay_Purple_Elf_Ear/HayHay_Purple_Elf_Ear.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Ears/HayHay_Purple_Elf_Ear/HayHay_Purple_Elf_Ear.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Purple_Elf_Ear.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      344,
+      21,
+      23
+    ],
+    "Translation": [
+      33,
+      -59
+    ]
+  }
+}

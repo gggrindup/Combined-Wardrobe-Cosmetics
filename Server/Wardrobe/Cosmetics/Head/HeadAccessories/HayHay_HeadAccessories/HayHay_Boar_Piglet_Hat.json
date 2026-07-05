@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Boar_Piglet_Hat.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Boar_Piglet_Hat/HayHay_Boar_Piglet_Hat.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Boar_Piglet_Hat/HayHay_Boar_Piglet_Hat.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Boar_Piglet_Hat.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      21,
+      44,
+      20
+    ],
+    "Translation": [
+      -3,
+      -14
+    ]
+  }
+}

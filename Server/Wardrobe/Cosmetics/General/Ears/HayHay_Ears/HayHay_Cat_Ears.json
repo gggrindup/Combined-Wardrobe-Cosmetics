@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Cat_Ears.name"
+    }
+  },
+  "CosmeticSlot": "Ears",
+  "Appearance": {
+    "Model": "Characters/Ears/HayHay_Cat_Ears/HayHay_Cat_Ears.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Ears/HayHay_Cat_Ears/HayHay_Cat_Ears.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Cat_Ears.png",
+  "IconProperties": {
+    "Scale": 0.8,
+    "Rotation": [
+      346,
+      1,
+      19
+    ],
+    "Translation": [
+      18,
+      -57
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Leaves_Pigtails.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Kweebec_Leaves_Pigtails/HayHay_Kweebec_Leaves_Pigtails.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Kweebec_Leaves_Pigtails/HayHay_Kweebec_Leaves_Pigtails.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Kweebec_Leaves_Pigtails.png"
+}

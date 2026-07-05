@@ -1,0 +1,33 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Beserker_Head.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "HiddenCosmeticSlots": [
+    "Ears",
+    "Haircut",
+    "EarAccessory",
+    "Face"
+  ],
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Beserker_Head/HayHay_Beserker_Head.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Beserker_Head/HayHay_Beserker_Head.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Beserker_Head.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -1
+    ]
+  }
+}

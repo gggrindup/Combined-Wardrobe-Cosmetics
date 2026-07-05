@@ -1,0 +1,17 @@
+{
+  "CosmeticSlot": "Ears",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DJ_Ears/EarElfLongDroopy.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Skin",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DJ_Ears/EarElfLongDroopy.png"
+    }
+  },
+  "Properties": {
+    "Translation": {
+      "Name": "server.DeadJoy.ear.DroopyLong.name"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/Ears/EarsElfLongDroopy.png"
+}

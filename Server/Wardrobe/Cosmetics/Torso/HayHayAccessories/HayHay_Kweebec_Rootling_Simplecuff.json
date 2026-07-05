@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Rootling_Simplecuff.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Kweebec_Rootling_Simplecuff/HayHay_Kweebec_Rootling_Simplecuff.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Kweebec_Rootling_Simplecuff/HayHay_Kweebec_Rootling_Simplecuff.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Kweebec_Rootling_Simplecuff.png",
+  "IconProperties": {
+    "Scale": 0.8,
+    "Rotation": [
+      360,
+      313,
+      0
+    ],
+    "Translation": [
+      0,
+      3
+    ]
+  }
+}

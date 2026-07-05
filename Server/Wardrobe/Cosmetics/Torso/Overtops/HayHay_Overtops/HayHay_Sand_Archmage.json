@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Sand_Archmage.name"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Model": "Characters/Overtops/HayHay_Sand_Archmage/HayHay_Sand_Archmage.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Overtops/HayHay_Sand_Archmage/HayHay_Sand_Archmage.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Sand_Archmage.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -47
+    ]
+  }
+}

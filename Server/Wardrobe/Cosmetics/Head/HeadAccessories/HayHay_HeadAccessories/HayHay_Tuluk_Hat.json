@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Tuluk_Hat.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Tuluk_Hat/HayHay_Tuluk_Hat.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Tuluk_Hat/HayHay_Tuluk_Hat.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Tuluk_Hat.png",
+  "IconProperties": {
+    "Scale": 0.46,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      7,
+      -10
+    ]
+  }
+}

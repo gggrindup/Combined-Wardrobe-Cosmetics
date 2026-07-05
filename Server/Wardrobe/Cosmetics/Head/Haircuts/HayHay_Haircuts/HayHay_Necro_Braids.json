@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Necro_Braids.name"
+    }
+  },
+  "CosmeticSlot": "Haircut",
+  "Appearance": {
+    "Model": "Characters/Haircuts/HayHay_Necro_Braids/HayHay_Necro_Braids.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Haircuts/HayHay_Necro_Braids/HayHay_Necro_Braids.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Necro_Braids.png",
+  "IconProperties": {
+    "Scale": 0.43,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      7,
+      -91
+    ]
+  }
+}

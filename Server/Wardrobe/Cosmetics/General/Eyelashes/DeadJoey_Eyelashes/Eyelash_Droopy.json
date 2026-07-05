@@ -1,0 +1,17 @@
+{
+  "CosmeticSlot": "Eyelashes",
+  "Icon": "Icons/Wardrobe/Cosmetics/Eyelashes/Eyelash_Droopy.png",
+  "Properties": {
+    "Translation": {
+      "Name": "server.DeadJoy.eyelashes.Droopy.name"
+    }
+  },
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DJ_Eyelashes/DJ_Eyelashes.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DJ_Eyelashes/Eyelash_Droopy.png"
+    }
+  }
+}

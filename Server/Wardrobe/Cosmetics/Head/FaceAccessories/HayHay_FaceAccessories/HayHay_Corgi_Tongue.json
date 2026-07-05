@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Corgi_Tongue.name"
+    }
+  },
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Characters/FaceAccessories/HayHay_Corgi_Tongue/HayHay_Corgi_Tongue.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/FaceAccessories/HayHay_Corgi_Tongue/HayHay_Corgi_Tongue.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Corgi_Tongue.png",
+  "IconProperties": {
+    "Scale": 1.6,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -22,
+      -4
+    ]
+  }
+}

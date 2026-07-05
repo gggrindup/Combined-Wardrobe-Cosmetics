@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Fertilizer_Crystal.name"
+    }
+  },
+  "CosmeticSlot": "HayHayBackpacks",
+  "Appearance": {
+    "Model": "Characters/Misc/HayHay_Seed_Bag_Back/Feedbag.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Misc/HayHay_Seed_Bag_Back/Fertilizer_Crystal.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Fertilizer_Crystal.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      8,
+      13
+    ]
+  }
+}

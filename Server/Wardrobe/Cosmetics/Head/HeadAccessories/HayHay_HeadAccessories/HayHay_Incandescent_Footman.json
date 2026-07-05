@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Incandescent_Footman.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Incandescent_Footman/HayHay_Incandescent_Footman.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Incandescent_Footman/HayHay_Incandescent_Footman.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Incandescent_Footman.png"
+}

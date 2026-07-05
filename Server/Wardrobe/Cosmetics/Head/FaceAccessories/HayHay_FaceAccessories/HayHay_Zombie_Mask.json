@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Zombie_Mask.name"
+    }
+  },
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Characters/FaceAccessories/HayHay_Zombie_Mask/HayHay_Zombie_Mask.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/FaceAccessories/HayHay_Zombie_Mask/HayHay_Zombie_Mask.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Zombie_Mask.png"
+}

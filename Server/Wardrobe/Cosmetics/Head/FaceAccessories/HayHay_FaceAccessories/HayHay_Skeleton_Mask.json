@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Skeleton_Mask.name"
+    }
+  },
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Characters/FaceAccessories/HayHay_Skeleton_Mask/HayHay_Skeleton_Mask.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/FaceAccessories/HayHay_Skeleton_Mask/HayHay_Skeleton_Mask.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Skeleton_Mask.png"
+}

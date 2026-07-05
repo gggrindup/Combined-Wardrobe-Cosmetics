@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Necro_Bracers.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Necro_Bracers/HayHay_Necro_Bracers.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Necro_Bracers/HayHay_Necro_Bracers.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Necro_Bracers.png",
+  "IconProperties": {
+    "Scale": 0.85,
+    "Rotation": [
+      22.5,
+      61,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -3
+    ]
+  }
+}

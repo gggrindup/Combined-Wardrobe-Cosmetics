@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Yeti_Eyes.name"
+    }
+  },
+  "CosmeticSlot": "Eyes",
+  "Appearance": {
+    "Model": "Characters/Eyes/HayHay_Yeti_Eyes/HayHay_Yeti_Eyes.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Eyes/HayHay_Yeti_Eyes/HayHay_Yeti_Eyes.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Yeti_Eyes.png",
+  "IconProperties": {
+    "Scale": 1.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -7,
+      -85
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Hypixel_Tunic.name"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Model": "Characters/Overtops/HayHay_Hypixel_Tunic/HayHay_Hypixel_Tunic.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Overtops/HayHay_Hypixel_Tunic/Red.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Hypixel_Tunic_Red.png",
+  "IconProperties": {
+    "Scale": 0.44,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -49
+    ]
+  }
+}

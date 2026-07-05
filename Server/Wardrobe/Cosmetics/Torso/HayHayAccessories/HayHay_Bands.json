@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Bands.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Bands/HayHay_Bands.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Bands/HayHay_Bands.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Bands.png",
+  "IconProperties": {
+    "Scale": 1,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -1
+    ]
+  }
+}

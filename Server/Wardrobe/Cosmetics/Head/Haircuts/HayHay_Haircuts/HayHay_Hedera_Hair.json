@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Hedera_Hair.name"
+    }
+  },
+  "CosmeticSlot": "Haircut",
+  "Appearance": {
+    "Model": "Characters/Haircuts/HayHay_Hedera_Hair/HayHay_Hedera_Hair.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Haircuts/HayHay_Hedera_Hair/HayHay_Hedera_Hair.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Hedera_Hair.png"
+}

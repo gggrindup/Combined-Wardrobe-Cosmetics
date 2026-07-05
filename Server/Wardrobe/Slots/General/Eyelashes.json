@@ -1,0 +1,12 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.wardrobe.cosmetics.slots.eyelashes.name"
+    },
+    "Icon": "Icons/Wardrobe/Slots/Eyelash.png"
+  },
+  "Category": "General",
+  "SelectedIcon": "Icons/Wardrobe/Slots/EyelashSelected.png",
+  "Order": 5,
+  "Icon": "Icons/Wardrobe/Slots/Eyelash.png"
+}

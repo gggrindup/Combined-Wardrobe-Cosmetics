@@ -1,0 +1,311 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Head",
+      "position": {"x": 0, "y": -5, "z": 0},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "none",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": true
+        },
+        "textureLayout": {},
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "Hat",
+          "position": {"x": 0, "y": 14.09788, "z": -5.35116},
+          "orientation": {"x": -0.07809, "y": 0, "z": 0, "w": 0.99695},
+          "shape": {
+            "type": "none",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false
+            },
+            "textureLayout": {},
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "3",
+              "name": "Lure-Pole",
+              "position": {"x": 0, "y": -7.09788, "z": 3.25116},
+              "orientation": {"x": 0.13053, "y": 0, "z": 0, "w": 0.99144},
+              "shape": {
+                "type": "box",
+                "offset": {"x": 0, "y": 13, "z": 0},
+                "stretch": {"x": 1, "y": 1.55, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 3, "y": 20, "z": 3}
+                },
+                "textureLayout": {
+                  "back": {
+                    "offset": {"x": 252, "y": 138},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {"x": 252, "y": 138},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {"x": 252, "y": 138},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {"x": 252, "y": 138},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {"x": 252, "y": 138},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "bottom": {
+                    "offset": {"x": 252, "y": 138},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "4",
+                  "name": "Lure-Pole2",
+                  "position": {"x": 0, "y": 15, "z": 0},
+                  "orientation": {"x": 0.38268, "y": 0, "z": 0, "w": 0.92388},
+                  "shape": {
+                    "type": "box",
+                    "offset": {"x": 0, "y": 8, "z": 0},
+                    "stretch": {"x": 0.85, "y": 1, "z": 0.9},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 3, "y": 17, "z": 3}
+                    },
+                    "textureLayout": {
+                      "back": {
+                        "offset": {"x": 252, "y": 121},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "right": {
+                        "offset": {"x": 252, "y": 121},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "front": {
+                        "offset": {"x": 252, "y": 121},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "left": {
+                        "offset": {"x": 252, "y": 121},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "top": {
+                        "offset": {"x": 252, "y": 121},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "bottom": {
+                        "offset": {"x": 252, "y": 121},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": false,
+                    "shadingMode": "flat"
+                  },
+                  "children": [
+                    {
+                      "id": "5",
+                      "name": "Lure-Pole3",
+                      "position": {"x": 0, "y": 8.3, "z": 0},
+                      "orientation": {"x": 0.38268, "y": 0, "z": 0, "w": 0.92388},
+                      "shape": {
+                        "type": "box",
+                        "offset": {"x": 0, "y": 6, "z": 0},
+                        "stretch": {"x": 0.8, "y": 1, "z": 0.8},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 3, "y": 14, "z": 3}
+                        },
+                        "textureLayout": {
+                          "back": {
+                            "offset": {"x": 252, "y": 107},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "right": {
+                            "offset": {"x": 252, "y": 107},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "front": {
+                            "offset": {"x": 252, "y": 107},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "left": {
+                            "offset": {"x": 252, "y": 107},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "top": {
+                            "offset": {"x": 252, "y": 107},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "bottom": {
+                            "offset": {"x": 252, "y": 107},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": false,
+                        "shadingMode": "flat"
+                      },
+                      "children": [
+                        {
+                          "id": "6",
+                          "name": "Lure-Pole4",
+                          "position": {"x": 0, "y": 7.3, "z": 0.5},
+                          "orientation": {"x": 0.2546, "y": 0, "z": 0, "w": 0.96705},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": 0, "y": 5, "z": 0},
+                            "stretch": {"x": 0.7, "y": 1, "z": 0.7},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 3, "y": 13, "z": 3}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 252, "y": 94},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "right": {
+                                "offset": {"x": 252, "y": 94},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "front": {
+                                "offset": {"x": 252, "y": 94},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "left": {
+                                "offset": {"x": 252, "y": 94},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "top": {
+                                "offset": {"x": 252, "y": 94},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "bottom": {
+                                "offset": {"x": 252, "y": 94},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          },
+                          "children": [
+                            {
+                              "id": "7",
+                              "name": "Lure",
+                              "position": {"x": 0, "y": 4, "z": 0},
+                              "orientation": {"x": -0.16043, "y": 0.06645, "z": 0.37687, "w": 0.90984},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": 4, "y": 4, "z": 4},
+                                "stretch": {"x": 0.8, "y": 0.8, "z": 0.8},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 12, "y": 12, "z": 12}
+                                },
+                                "textureLayout": {
+                                  "back": {
+                                    "offset": {"x": 242, "y": 69},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "right": {
+                                    "offset": {"x": 242, "y": 69},
+                                    "mirror": {"x": true, "y": false},
+                                    "angle": 270
+                                  },
+                                  "front": {
+                                    "offset": {"x": 242, "y": 69},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "left": {
+                                    "offset": {"x": 242, "y": 81},
+                                    "mirror": {"x": true, "y": true},
+                                    "angle": 90
+                                  },
+                                  "top": {
+                                    "offset": {"x": 254, "y": 81},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 180
+                                  },
+                                  "bottom": {
+                                    "offset": {"x": 242, "y": 69},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": false,
+                                "shadingMode": "fullbright"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "format": "character",
+  "lod": "auto"
+}

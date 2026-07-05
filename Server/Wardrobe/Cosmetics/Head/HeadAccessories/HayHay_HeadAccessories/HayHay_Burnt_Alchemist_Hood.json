@@ -1,0 +1,20 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Burnt_Alchemist_Hood.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "HiddenCosmeticSlots": [
+    "Ears",
+    "Haircut",
+    "EarAccessory"
+  ],
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Burnt_Alchemist_Hood/HayHay_Burnt_Alchemist_Hood.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Burnt_Alchemist_Hood/HayHay_Burnt_Alchemist_Hood.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Burnt_Alchemist_Hood.png"
+}

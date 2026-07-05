@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_White_Mage_Shoes.name"
+    }
+  },
+  "CosmeticSlot": "Shoes",
+  "Appearance": {
+    "Model": "Characters/Shoes/HayHay_White_Mage_Shoes/Feet.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Shoes/HayHay_White_Mage_Shoes/Feet_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_White_Mage_Shoes.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -2,
+      -10
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Bramblekin_Head_Horns.name"
+    }
+  },
+  "CosmeticSlot": "Horns",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Bramblekin_Head_Horns/HayHay_Bramblekin_Head_Horns.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Bramblekin_Head_Horns/HayHay_Bramblekin_Head_Horns.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Bramblekin_Head_Horns.png",
+  "IconProperties": {
+    "Scale": 0.37,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      4,
+      -85
+    ]
+  }
+}

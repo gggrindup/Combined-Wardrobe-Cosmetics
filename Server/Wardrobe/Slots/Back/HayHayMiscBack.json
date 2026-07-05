@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHayMiscBack.name"
+    }
+  },
+  "CosmeticType": "Capes",
+  "Category": "Capes",
+  "Icon": "Icons/Wardrobe/Slots/HayHayMisc.png",
+  "SelectedIcon": "Icons/Wardrobe/Slots/HayHayMiscSelected.png",
+  "Order": 5,
+  "Camera": {
+    "Yaw": 0,
+    "Distance": 2,
+    "Y": -0.5
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Bee_Hive.name"
+    }
+  },
+  "CosmeticSlot": "HayHayMiscBack",
+  "Appearance": {
+    "Model": "Characters/Misc/HayHay_Bee_Hive/Hive.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Misc/HayHay_Bee_Hive/Hive_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Bee_Hive.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      360,
+      0,
+      357
+    ],
+    "Translation": [
+      -6,
+      -111
+    ]
+  }
+}

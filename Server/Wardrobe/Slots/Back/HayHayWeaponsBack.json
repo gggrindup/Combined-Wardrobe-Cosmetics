@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHayWeapons.name"
+    }
+  },
+  "CosmeticType": "Capes",
+  "Category": "Capes",
+  "Icon": "Icons/Wardrobe/Slots/HayHayWeaponsSlot.png",
+  "SelectedIcon": "Icons/Wardrobe/Slots/HayHayWeaponsSlotSelected.png",
+  "Order": 3,
+  "Camera": {
+    "Yaw": 0,
+    "Distance": 2,
+    "Y": -0.5
+  }
+}

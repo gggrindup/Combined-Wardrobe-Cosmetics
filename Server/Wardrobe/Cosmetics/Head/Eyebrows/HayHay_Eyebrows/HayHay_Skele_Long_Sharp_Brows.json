@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Skele_Long_Sharp_Brows.name"
+    }
+  },
+  "CosmeticSlot": "Eyebrows",
+  "Appearance": {
+    "Model": "Characters/Eyebrows/HayHay_Skele_Long_Sharp_Brows/HayHay_Skele_Long_Sharp_Brows.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Eyebrows/HayHay_Skele_Long_Sharp_Brows/HayHay_Skele_Long_Sharp_Brows.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Skele_Long_Sharp_Brows.png"
+}

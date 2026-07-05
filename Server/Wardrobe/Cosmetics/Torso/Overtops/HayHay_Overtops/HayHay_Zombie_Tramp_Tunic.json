@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Zombie_Tramp_Tunic.name"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Model": "Characters/Overtops/HayHay_Zombie_Tramp_Tunic/HayHay_Zombie_Tramp_Tunic.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Overtops/HayHay_Zombie_Tramp_Tunic/HayHay_Zombie_Tramp_Tunic.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Zombie_Tramp_Tunic.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -62
+    ]
+  }
+}

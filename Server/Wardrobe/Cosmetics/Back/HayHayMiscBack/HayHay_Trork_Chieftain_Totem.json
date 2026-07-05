@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Trork_Chieftain_Totem.name"
+    }
+  },
+  "CosmeticSlot": "HayHayMiscBack",
+  "Appearance": {
+    "Model": "Characters/Weapons/HayHay_Trork_Chieftain_Totem/HayHay_Trork_Chieftain_Totem.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Weapons/HayHay_Trork_Chieftain_Totem/HayHay_Trork_Chieftain_Totem.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Trork_Chieftain_Totem.png",
+  "IconProperties": {
+    "Scale": 0.36,
+    "Rotation": [
+      360,
+      182,
+      336
+    ],
+    "Translation": [
+      12,
+      -21
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Yeti_Skull_Necklace.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories3",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Yeti_Skull_Necklace/HayHay_Yeti_Skull_Necklace.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Yeti_Skull_Necklace/HayHay_Yeti_Skull_Necklace.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Yeti_Skull_Necklace.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      15,
+      22.5
+    ],
+    "Translation": [
+      18,
+      -64
+    ]
+  }
+}

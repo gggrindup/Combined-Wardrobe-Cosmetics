@@ -1,0 +1,32 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Outlander_Brute_Head.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "HiddenCosmeticSlots": [
+    "Ears",
+    "Haircut",
+    "EarAccessory"
+  ],
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Outlander_Brute_Head/HayHay_Outlander_Brute_Head.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Outlander_Brute_Head/HayHay_Outlander_Brute_Head.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Outlander_Brute_Head.png",
+  "IconProperties": {
+    "Scale": 0.39,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -8,
+      6
+    ]
+  }
+}

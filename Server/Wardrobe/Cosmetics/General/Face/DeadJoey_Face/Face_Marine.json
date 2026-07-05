@@ -1,0 +1,17 @@
+{
+  "Icon": "Icons/Wardrobe/Cosmetics/Face/Face_Marine.png",
+  "CosmeticSlot": "Face",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DJ_Face/DJFace.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Skin",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DJ_Face/Face_Marine.png"
+    }
+  },
+  "Properties": {
+    "Translation": {
+      "Name": "server.DeadJoy.face.Marine.name"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.DLS.mouth.Orc.name"
+    },
+    "Icon": "Icons/Wardrobe/Cosmetics/DLSMouth/Orc.png"
+  },
+  "CosmeticSlot": "Mouth",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DLSMouth/DLSMouth.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Body_Attachments/Mouths/Mouth1_Textures/Orc.png",
+      "GradientSet": "Skin"
+    }
+  }
+}

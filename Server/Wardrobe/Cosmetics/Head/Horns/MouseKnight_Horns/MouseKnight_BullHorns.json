@@ -1,0 +1,204 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.mouseknight.wardrobe.cosmetics.horns.BullHorns.name"
+    },
+    "Icon": "Icons/Wardrobe/Cosmetics/Horns/BullHorns.png"
+  },
+  "CosmeticSlot": "Horns",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Horns/BullHorns.blockymodel",
+    "TextureConfig": {
+      "Type": "Variant",
+      "Variants": {
+        "Default": {
+          "Properties": {
+            "Translation": {
+              "Name": "Default"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/CowHorns.png",
+          "WardrobeColor": [
+            "#000000"
+          ]
+        },
+        "Copper": {
+          "Properties": {
+            "Translation": {
+              "Name": "Copper"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Copper.png",
+          "WardrobeColor": [
+            "#ad733f"
+          ]
+        },
+		"Bronze": {
+          "Properties": {
+            "Translation": {
+              "Name": "Bronze"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Bronze.png",
+          "WardrobeColor": [
+            "#f2c87b"
+          ]
+        },
+		"Iron": {
+          "Properties": {
+            "Translation": {
+              "Name": "Iron"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Iron.png",
+          "WardrobeColor": [
+            "#9e9f97"
+          ]
+        },
+		"ColdIron": {
+          "Properties": {
+            "Translation": {
+              "Name": "Cold Iron"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_ColdIron.png",
+          "WardrobeColor": [
+            "#eceee7"
+          ]
+        },
+		"Thorium": {
+          "Properties": {
+            "Translation": {
+              "Name": "Thorium"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Thorium.png",
+          "WardrobeColor": [
+            "#879552"
+          ]
+        },
+		"Nickel": {
+          "Properties": {
+            "Translation": {
+              "Name": "Nickel"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Nickel.png",
+          "WardrobeColor": [
+            "#d8cfa8"
+          ]
+        },
+		"Cobalt": {
+          "Properties": {
+            "Translation": {
+              "Name": "Cobalt"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Cobalt.png",
+          "WardrobeColor": [
+            "#586f81"
+          ]
+        },
+		"Silver": {
+          "Properties": {
+            "Translation": {
+              "Name": "Silver"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Silver.png",
+          "WardrobeColor": [
+            "#e0ebf6"
+          ]
+        },
+		"Adamantite": {
+          "Properties": {
+            "Translation": {
+              "Name": "Adamantite"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Adamantite.png",
+          "WardrobeColor": [
+            "#b35625"
+          ]
+        },
+		"Ash": {
+          "Properties": {
+            "Translation": {
+              "Name": "Ash"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Ash.png",
+          "WardrobeColor": [
+            "#cbb298"
+          ]
+        },
+		"Mithril": {
+          "Properties": {
+            "Translation": {
+              "Name": "Mithril"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Mithril.png",
+          "WardrobeColor": [
+            "#cae1fb"
+          ]
+        },
+		"Gold": {
+          "Properties": {
+            "Translation": {
+              "Name": "Gold"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Gold.png",
+          "WardrobeColor": [
+            "#fbe56d"
+          ]
+        },
+		"Onyxium": {
+          "Properties": {
+            "Translation": {
+              "Name": "Onyxium"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Onyxium.png",
+          "WardrobeColor": [
+            "#444256"
+          ]
+        },
+		"Smoke": {
+          "Properties": {
+            "Translation": {
+              "Name": "Smoke"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Smoke.png",
+          "WardrobeColor": [
+            "#607e89"
+          ]
+        },
+		"Bone": {
+          "Properties": {
+            "Translation": {
+              "Name": "Bone"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_Bone.png",
+          "WardrobeColor": [
+            "#fbedac"
+          ]
+        },
+		"WeatheredBone": {
+          "Properties": {
+            "Translation": {
+              "Name": "Weathered Bone"
+            }
+          },
+          "Texture": "Characters/Wardrobe/Cosmetics/Horns/CowHorns_Textures/Cow_WeatheredBone.png",
+          "WardrobeColor": [
+            "#9a743e"
+          ]
+        }
+      }
+    }
+  }
+}

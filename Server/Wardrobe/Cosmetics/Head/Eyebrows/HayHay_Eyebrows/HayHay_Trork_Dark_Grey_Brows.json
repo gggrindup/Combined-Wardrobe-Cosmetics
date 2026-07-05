@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Trork_Brows.name"
+    }
+  },
+  "CosmeticSlot": "Eyebrows",
+  "Appearance": {
+    "Model": "Characters/Eyebrows/HayHay_Trork_Dark_Grey_Brows/HayHay_Trork_Dark_Grey_Brows.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Eyebrows/HayHay_Trork_Dark_Grey_Brows/HayHay_Trork_Dark_Grey_Brows.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Trork_Dark_Grey_Brows.png",
+  "IconProperties": {
+    "Scale": 1,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -8,
+      -87
+    ]
+  }
+}

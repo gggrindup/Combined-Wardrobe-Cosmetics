@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Feran_Skull_Head.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Feran_Skull_Head2/HayHay_Feran_Skull_Head2.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Feran_Skull_Head2/HayHay_Feran_Skull_Head2.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Feran_Skull_Head2.png",
+  "IconProperties": {
+    "Scale": 0.37,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -10,
+      -67
+    ]
+  }
+}

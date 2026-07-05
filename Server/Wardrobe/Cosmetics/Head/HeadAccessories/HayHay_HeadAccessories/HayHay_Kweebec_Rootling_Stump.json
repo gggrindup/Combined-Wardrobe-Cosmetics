@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Rootling_Stump.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Kweebec_Rootling_Stump/HayHay_Kweebec_Rootling_Stump.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Kweebec_Rootling_Stump/HayHay_Kweebec_Rootling_Stump.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Kweebec_Rootling_Stump.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      351,
+      200,
+      360
+    ],
+    "Translation": [
+      -3,
+      -30
+    ]
+  }
+}

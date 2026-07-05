@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Mage_Crown.name"
+    }
+  },
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Mage_Crown/Head.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Mage_Crown/Head_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Mage_Crown.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      1,
+      -9
+    ]
+  }
+}

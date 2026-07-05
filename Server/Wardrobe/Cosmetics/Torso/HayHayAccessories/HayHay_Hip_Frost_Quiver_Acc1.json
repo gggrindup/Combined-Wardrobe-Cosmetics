@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Frost_Hip_Quiver.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Frost_Hip_Quiver/HayHay_Frost_Hip_Quiver.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Frost_Hip_Quiver/HayHay_Frost_Hip_Quiver.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Hip_Frost_Quiver_Acc1.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      192,
+      129,
+      88
+    ],
+    "Translation": [
+      25,
+      14
+    ]
+  }
+}

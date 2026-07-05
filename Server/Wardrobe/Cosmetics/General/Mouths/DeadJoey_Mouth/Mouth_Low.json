@@ -1,0 +1,17 @@
+{
+  "CosmeticSlot": "Mouth",
+  "Icon": "Icons/Wardrobe/Cosmetics/Mouth/Mouth_Wide.png",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DJ_Mouth/DJMouth.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Skin",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DJ_Mouth/Mouth_Low.png"
+    }
+  },
+  "Properties": {
+    "Translation": {
+      "Name": "server.DeadJoy.mouth.Low.name"
+    }
+  }
+}

@@ -1,0 +1,649 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Head",
+      "position": {"x": 0, "y": -5, "z": 0},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "none",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 0, "y": 0, "z": 0},
+        "settings": {
+          "isPiece": true
+        },
+        "textureLayout": {},
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "HeadPart",
+          "position": {"x": 0, "y": 8, "z": 0},
+          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+          "shape": {
+            "type": "box",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 34, "y": 23, "z": 30}
+            },
+            "textureLayout": {
+              "back": {
+                "offset": {"x": 64, "y": 75},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "right": {
+                "offset": {"x": 34, "y": 75},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "front": {
+                "offset": {"x": 0, "y": 75},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "left": {
+                "offset": {"x": 64, "y": 75},
+                "mirror": {"x": true, "y": false},
+                "angle": 0
+              },
+              "top": {
+                "offset": {"x": 0, "y": 45},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "3",
+              "name": "Neck Part",
+              "position": {"x": 0, "y": -8.262, "z": -9.656},
+              "orientation": {"x": 0.21264, "y": 0.00039, "z": -0.00024, "w": 0.97713},
+              "shape": {
+                "type": "box",
+                "offset": {"x": 0, "y": 0, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 41, "y": 16, "z": 24}
+                },
+                "textureLayout": {
+                  "back": {
+                    "offset": {"x": 95, "y": 41},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {"x": 71, "y": 41},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {"x": 44, "y": 58},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {"x": 95, "y": 41},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {"x": 95, "y": 0},
+                    "mirror": {"x": true, "y": true},
+                    "angle": 270
+                  },
+                  "bottom": {
+                    "offset": {"x": 26, "y": 3},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "4",
+                  "name": "HatTop",
+                  "position": {"x": 0, "y": 9.52788, "z": -10.16623},
+                  "orientation": {"x": -0.60876, "y": 0, "z": 0, "w": 0.79335},
+                  "shape": {
+                    "type": "box",
+                    "offset": {"x": 0, "y": 0, "z": 0},
+                    "stretch": {"x": 1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 19, "y": 18, "z": 27}
+                    },
+                    "textureLayout": {
+                      "back": {
+                        "offset": {"x": 52, "y": 27},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "right": {
+                        "offset": {"x": 25, "y": 27},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "front": {
+                        "offset": {"x": 6, "y": 27},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "left": {
+                        "offset": {"x": 25, "y": 27},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "top": {
+                        "offset": {"x": 25, "y": 27},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 180
+                      },
+                      "bottom": {
+                        "offset": {"x": 134, "y": 57},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": false,
+                    "shadingMode": "flat"
+                  },
+                  "children": [
+                    {
+                      "id": "5",
+                      "name": "HatTop2",
+                      "position": {"x": 0, "y": 9.9806, "z": 4.10892},
+                      "orientation": {"x": 0.21644, "y": 0, "z": 0, "w": 0.9763},
+                      "shape": {
+                        "type": "box",
+                        "offset": {"x": 0, "y": 0, "z": 0},
+                        "stretch": {"x": 1, "y": 1, "z": 1},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 11, "y": 16, "z": 20}
+                        },
+                        "textureLayout": {
+                          "back": {
+                            "offset": {"x": 99, "y": 21},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "right": {
+                            "offset": {"x": 110, "y": 21},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "front": {
+                            "offset": {"x": 99, "y": 21},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "left": {
+                            "offset": {"x": 110, "y": 21},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": false,
+                        "shadingMode": "flat"
+                      },
+                      "children": [
+                        {
+                          "id": "6",
+                          "name": "HatTopHolder",
+                          "position": {"x": 0, "y": 6.66155, "z": 2.79282},
+                          "orientation": {"x": 0.04362, "y": 0, "z": 0, "w": 0.99905},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": 0, "y": 0, "z": 0},
+                            "stretch": {"x": 1, "y": 1, "z": 1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 12, "y": 8, "z": 25}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 98, "y": 105},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "right": {
+                                "offset": {"x": 110, "y": 69},
+                                "mirror": {"x": false, "y": true},
+                                "angle": 90
+                              },
+                              "front": {
+                                "offset": {"x": 98, "y": 105},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "left": {
+                                "offset": {"x": 110, "y": 69},
+                                "mirror": {"x": false, "y": true},
+                                "angle": 90
+                              },
+                              "top": {
+                                "offset": {"x": 98, "y": 69},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "bottom": {
+                                "offset": {"x": 118, "y": 69},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          },
+                          "children": [
+                            {
+                              "id": "7",
+                              "name": "Pompom",
+                              "position": {"x": 0, "y": 2.74234, "z": 13.90143},
+                              "orientation": {"x": 0.1702, "y": -0.03443, "z": 0.19528, "w": 0.96525},
+                              "shape": {
+                                "type": "quad",
+                                "offset": {"x": 0, "y": 8, "z": 0},
+                                "stretch": {"x": 1, "y": 1, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 16, "y": 16},
+                                  "normal": "+Z"
+                                },
+                                "textureLayout": {
+                                  "front": {
+                                    "offset": {"x": 134, "y": 86},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              },
+                              "children": [
+                                {
+                                  "id": "8",
+                                  "name": "Pompom",
+                                  "position": {"x": 0, "y": -8, "z": 1},
+                                  "orientation": {"x": 0.06163, "y": 0.70442, "z": 0.06163, "w": 0.70442},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": 8, "z": 0},
+                                    "stretch": {"x": 1, "y": 1, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 16, "y": 16},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 134, "y": 86},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "flat"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "9",
+                              "name": "Pompom",
+                              "position": {"x": -1.19007, "y": 1.94598, "z": 5.74731},
+                              "orientation": {"x": 0.04277, "y": 0.00855, "z": -0.19598, "w": 0.97964},
+                              "shape": {
+                                "type": "quad",
+                                "offset": {"x": 0, "y": 8, "z": 0},
+                                "stretch": {"x": 0.69057, "y": 0.82331, "z": 0.5211},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 16, "y": 16},
+                                  "normal": "+Z"
+                                },
+                                "textureLayout": {
+                                  "front": {
+                                    "offset": {"x": 134, "y": 86},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              },
+                              "children": [
+                                {
+                                  "id": "10",
+                                  "name": "Pompom",
+                                  "position": {"x": 0, "y": -7.47905, "z": 0.95442},
+                                  "orientation": {"x": -0.06163, "y": 0.70442, "z": -0.06163, "w": 0.70442},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": 8, "z": 0},
+                                    "stretch": {"x": 0.81736, "y": 0.92159, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 16, "y": 16},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 134, "y": 86},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "flat"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "11",
+                              "name": "Pompom",
+                              "position": {"x": 0, "y": -0.09526, "z": -7.83287},
+                              "orientation": {"x": -0.1299, "y": -0.01275, "z": -0.09688, "w": 0.9867},
+                              "shape": {
+                                "type": "quad",
+                                "offset": {"x": 0, "y": 8, "z": 0},
+                                "stretch": {"x": 0.59159, "y": 0.78995, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 16, "y": 16},
+                                  "normal": "+Z"
+                                },
+                                "textureLayout": {
+                                  "front": {
+                                    "offset": {"x": 134, "y": 86},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              },
+                              "children": [
+                                {
+                                  "id": "12",
+                                  "name": "Pompom",
+                                  "position": {"x": 0, "y": -6.22579, "z": 1.38714},
+                                  "orientation": {"x": -0.0923, "y": 0.70106, "z": -0.0923, "w": 0.70106},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": 8, "z": 0},
+                                    "stretch": {"x": 0.69051, "y": 0.80915, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 16, "y": 16},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 134, "y": 86},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "flat"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "13",
+                              "name": "Pompom",
+                              "position": {"x": 0, "y": -2.17796, "z": -14.28998},
+                              "orientation": {"x": -0.34118, "y": 0.02401, "z": 0.06596, "w": 0.93737},
+                              "shape": {
+                                "type": "quad",
+                                "offset": {"x": 0, "y": 8, "z": 0},
+                                "stretch": {"x": 0.59159, "y": 0.78995, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 16, "y": 16},
+                                  "normal": "+Z"
+                                },
+                                "textureLayout": {
+                                  "front": {
+                                    "offset": {"x": 134, "y": 86},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              },
+                              "children": [
+                                {
+                                  "id": "14",
+                                  "name": "Pompom",
+                                  "position": {"x": 0, "y": -6.22579, "z": 1.38714},
+                                  "orientation": {"x": -0.0923, "y": 0.70106, "z": -0.0923, "w": 0.70106},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": 8, "z": 0},
+                                    "stretch": {"x": 0.69051, "y": 0.80915, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 16, "y": 16},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 134, "y": 86},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "flat"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "15",
+                              "name": "Pompom",
+                              "position": {"x": 0, "y": 1.45765, "z": -2.03731},
+                              "orientation": {"x": -0.06835, "y": -0.01151, "z": 0.04065, "w": 0.99677},
+                              "shape": {
+                                "type": "quad",
+                                "offset": {"x": 0, "y": 8, "z": 0},
+                                "stretch": {"x": 0.59159, "y": 0.78995, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 16, "y": 16},
+                                  "normal": "+Z"
+                                },
+                                "textureLayout": {
+                                  "front": {
+                                    "offset": {"x": 134, "y": 86},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              },
+                              "children": [
+                                {
+                                  "id": "16",
+                                  "name": "Pompom",
+                                  "position": {"x": 0, "y": -6.22579, "z": 1.38714},
+                                  "orientation": {"x": -0.0923, "y": 0.70106, "z": -0.0923, "w": 0.70106},
+                                  "shape": {
+                                    "type": "quad",
+                                    "offset": {"x": 0, "y": 8, "z": 0},
+                                    "stretch": {"x": 0.69051, "y": 0.80915, "z": 1},
+                                    "settings": {
+                                      "isPiece": false,
+                                      "size": {"x": 16, "y": 16},
+                                      "normal": "+Z"
+                                    },
+                                    "textureLayout": {
+                                      "front": {
+                                        "offset": {"x": 134, "y": 86},
+                                        "mirror": {"x": false, "y": false},
+                                        "angle": 0
+                                      }
+                                    },
+                                    "unwrapMode": "custom",
+                                    "visible": true,
+                                    "doubleSided": true,
+                                    "shadingMode": "flat"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "17",
+                          "name": "HatTopHolder",
+                          "position": {"x": 0, "y": 3.08337, "z": 17.79574},
+                          "orientation": {"x": 0.25882, "y": 0, "z": 0, "w": 0.96593},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": 0, "y": 0, "z": 0},
+                            "stretch": {"x": 1.03437, "y": 1, "z": 1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 12, "y": 8, "z": 11}
+                            },
+                            "textureLayout": {
+                              "right": {
+                                "offset": {"x": 110, "y": 105},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 270
+                              },
+                              "front": {
+                                "offset": {"x": 98, "y": 105},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "left": {
+                                "offset": {"x": 110, "y": 94},
+                                "mirror": {"x": false, "y": true},
+                                "angle": 90
+                              },
+                              "top": {
+                                "offset": {"x": 98, "y": 94},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "bottom": {
+                                "offset": {"x": 118, "y": 58},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          }
+                        },
+                        {
+                          "id": "18",
+                          "name": "HatTopHolder",
+                          "position": {"x": 0, "y": 5.79556, "z": -12.23181},
+                          "orientation": {"x": -0.25882, "y": 0, "z": 0, "w": 0.96593},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": 0, "y": 0, "z": 0},
+                            "stretch": {"x": 0.96384, "y": 1, "z": 1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 12, "y": 8, "z": 11}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 98, "y": 105},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "right": {
+                                "offset": {"x": 110, "y": 58},
+                                "mirror": {"x": false, "y": true},
+                                "angle": 90
+                              },
+                              "left": {
+                                "offset": {"x": 110, "y": 58},
+                                "mirror": {"x": false, "y": true},
+                                "angle": 90
+                              },
+                              "top": {
+                                "offset": {"x": 98, "y": 58},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "bottom": {
+                                "offset": {"x": 118, "y": 94},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "format": "character",
+  "lod": "auto"
+}

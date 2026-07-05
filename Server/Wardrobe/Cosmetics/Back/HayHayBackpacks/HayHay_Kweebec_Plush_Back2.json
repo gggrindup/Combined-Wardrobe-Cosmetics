@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Plush_Back.name"
+    }
+  },
+  "CosmeticSlot": "HayHayBackpacks",
+  "Appearance": {
+    "Model": "Characters/Misc/HayHay_Kweebec_Plush_Back/Kweebec_Plush.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Misc/HayHay_Kweebec_Plush_Back/Kweebec_Plush_Pink_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Kweebec_Plush_Back2.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      350,
+      182,
+      360
+    ],
+    "Translation": [
+      0,
+      -78
+    ]
+  }
+}

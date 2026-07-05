@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Ghoul_Hands.name"
+    }
+  },
+  "CosmeticSlot": "Gloves",
+  "Appearance": {
+    "Model": "Characters/Gloves/HayHay_Ghoul_Hands/HayHay_Ghoul_Hands.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Gloves/HayHay_Ghoul_Hands/HayHay_Ghoul_Hands.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Ghoul_Hands.png",
+  "IconProperties": {
+    "Scale": 0.65,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      12
+    ]
+  }
+}

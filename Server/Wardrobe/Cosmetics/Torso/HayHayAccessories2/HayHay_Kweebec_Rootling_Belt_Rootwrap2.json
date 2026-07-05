@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Rootling_Belt_Rootwrap.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories2",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Kweebec_Rootling_Belt_Rootwrap/HayHay_Kweebec_Rootling_Belt_Rootwrap.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Kweebec_Rootling_Belt_Rootwrap/HayHay_Kweebec_Rootling_Belt_Rootwrap.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Kweebec_Rootling_Belt_Rootwrap.png",
+  "IconProperties": {
+    "Scale": 0.64,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      18
+    ]
+  }
+}

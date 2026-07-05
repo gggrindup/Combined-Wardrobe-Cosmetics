@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.violet.wardrobe.cosmetics.headaccessories.ITMG.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Icon": "Icons/Wardrobe/Cosmetics/HeadAccessories/Creature.png",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/HeadAccessories/Creature.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/HeadAccessories/Creature.png"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Hypixel_Team_Cape.name"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Model": "Characters/Capes/HayHay_Hypixel_Team_Medium_Cape/HayHay_Hypixel_Team_Medium_Cape.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Capes/HayHay_Hypixel_Team_Short_Cape/Green.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Hypixel_Team_Medium_Cape_Green.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      0,
+      179,
+      6
+    ],
+    "Translation": [
+      -3,
+      -23
+    ]
+  }
+}

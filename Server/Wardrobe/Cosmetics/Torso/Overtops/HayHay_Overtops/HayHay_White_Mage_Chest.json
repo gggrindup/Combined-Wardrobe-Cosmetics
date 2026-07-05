@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_White_Mage_Chest.name"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Model": "Characters/Overtops/HayHay_White_Mage_Chest/Chest.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Overtops/HayHay_White_Mage_Chest/Chest_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_White_Mage_Chest.png",
+  "IconProperties": {
+    "Scale": 0.48,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -9
+    ]
+  }
+}

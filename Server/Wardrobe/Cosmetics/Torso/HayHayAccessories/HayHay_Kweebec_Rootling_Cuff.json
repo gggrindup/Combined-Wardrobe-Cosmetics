@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Rootling_Cuff.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Kweebec_Rootling_Cuff/HayHay_Kweebec_Rootling_Cuff.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Kweebec_Rootling_Cuff/HayHay_Kweebec_Rootling_Cuff.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Kweebec_Rootling_Cuff.png",
+  "IconProperties": {
+    "Scale": 0.8,
+    "Rotation": [
+      360,
+      313,
+      0
+    ],
+    "Translation": [
+      0,
+      -6
+    ]
+  }
+}

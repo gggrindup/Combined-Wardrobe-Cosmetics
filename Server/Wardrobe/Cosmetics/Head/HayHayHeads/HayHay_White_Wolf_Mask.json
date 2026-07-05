@@ -1,0 +1,21 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_White_Wolf_Mask.name"
+    }
+  },
+  "CosmeticSlot": "HayHayHeads",
+  "HiddenCosmeticSlots": [
+    "Ears",
+    "Haircut",
+    "EarAccessory",
+    "Face"
+  ],
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_White_Wolf_Mask/HayHay_White_Wolf_Mask.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_White_Wolf_Mask/HayHay_White_Wolf_Mask.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_White_Wolf_Mask.png"
+}

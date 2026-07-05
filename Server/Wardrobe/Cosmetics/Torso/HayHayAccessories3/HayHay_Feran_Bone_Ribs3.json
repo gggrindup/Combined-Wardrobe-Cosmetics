@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Feran_Bone_Ribs.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories3",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Feran_Bone_Ribs/HayHay_Feran_Bone_Ribs.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Feran_Bone_Ribs/HayHay_Feran_Bone_Ribs.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Feran_Bone_Ribs.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      1
+    ]
+  }
+}

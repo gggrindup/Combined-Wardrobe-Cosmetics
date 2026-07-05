@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Incandescent_Footman_Chest.name"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Model": "Characters/Overtops/HayHay_Incandescent_Footman_Chest/HayHay_Incandescent_Footman_Chest.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Overtops/HayHay_Incandescent_Footman_Chest/HayHay_Incandescent_Footman_Chest.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Incandescent_Footman_Chest.png"
+}

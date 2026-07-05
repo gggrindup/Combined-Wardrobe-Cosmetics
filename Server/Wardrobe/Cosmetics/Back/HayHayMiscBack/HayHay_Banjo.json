@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Banjo.name"
+    }
+  },
+  "CosmeticSlot": "HayHayMiscBack",
+  "Appearance": {
+    "Model": "Characters/Misc/HayHay_Banjo/HayHay_Banjo.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Misc/HayHay_Banjo/HayHay_Banjo.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Banjo.png",
+  "IconProperties": {
+    "Scale": 0.47,
+    "Rotation": [
+      350,
+      182,
+      360
+    ],
+    "Translation": [
+      -6,
+      2
+    ]
+  }
+}

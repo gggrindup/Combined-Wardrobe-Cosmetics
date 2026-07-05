@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Burnt_Archer_Legs.name"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Appearance": {
+    "Model": "Characters/Pants/HayHay_Burnt_Archer_Legs/HayHay_Burnt_Archer_Legs.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Pants/HayHay_Burnt_Archer_Legs/HayHay_Burnt_Archer_Legs.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Burnt_Archer_Legs.png",
+  "IconProperties": {
+    "Scale": 0.48,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -24
+    ]
+  }
+}

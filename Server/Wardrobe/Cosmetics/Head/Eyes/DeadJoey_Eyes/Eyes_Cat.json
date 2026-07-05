@@ -1,0 +1,17 @@
+{
+  "Icon": "Icons/Wardrobe/Cosmetics/Eyes/Eyes_Cat.png",
+  "CosmeticSlot": "Eyes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DJ_Eyes/DJEyes.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Eyes_Gradient",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DJ_Eyes/Eyes_Cat.png"
+    }
+  },
+  "Properties": {
+    "Translation": {
+      "Name": "server.DeadJoy.eyes.Cat.name"
+    }
+  }
+}

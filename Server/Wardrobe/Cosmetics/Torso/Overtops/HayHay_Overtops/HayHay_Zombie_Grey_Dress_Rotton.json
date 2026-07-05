@@ -1,0 +1,31 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Zombie_Dress.name",
+      "Description": "server.items.HayHay_Zombie_Dress_Rotton.description"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Type": "Model",
+    "Model": "Characters/Overtops/HayHay_Zombie_Grey_Dress/HayHay_Zombie_Grey_Dress.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Rotten_Fabric",
+      "GrayscaleTexture": "Characters/Overtops/HayHay_Zombie_Grey_Dress/HayHay_Zombie_Grey_Dress.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Zombie_Grey_Dress.png",
+  "IconProperties": {
+    "Scale": 0.43,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -51
+    ]
+  }
+}

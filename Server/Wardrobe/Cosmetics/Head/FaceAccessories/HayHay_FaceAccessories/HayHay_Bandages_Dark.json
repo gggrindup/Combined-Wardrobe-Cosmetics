@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Bandages_Dark.name"
+    }
+  },
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Characters/FaceAccessories/HayHay_Bandages_Dark/HayHay_Bandages_Dark.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/FaceAccessories/HayHay_Bandages_Dark/HayHay_Bandages_Dark.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Bandages_Dark.png"
+}

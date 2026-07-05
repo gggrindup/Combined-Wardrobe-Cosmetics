@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Antlers_Flowers.name"
+    }
+  },
+  "CosmeticSlot": "Horns",
+  "Appearance": {
+    "Model": "Characters/Horns/HayHay_Antlers_Flowers/HayHay_Antlers_Flowers.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Horns/HayHay_Antlers_Flowers/HayHay_Antlers_Flowers.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Antlers_Flowers.png",
+  "IconProperties": {
+    "Scale": 0.32,
+    "Rotation": [
+      0,
+      32,
+      29
+    ],
+    "Translation": [
+      22,
+      -22
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Klops_Backpack.name"
+    }
+  },
+  "CosmeticSlot": "HayHayBackpacks",
+  "Appearance": {
+    "Model": "Characters/Capes/HayHay_Klops_Backpack/HayHay_Klops_Backpack.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Capes/HayHay_Klops_Backpack/HayHay_Klops_Backpack.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Klops_Backpack.png"
+}

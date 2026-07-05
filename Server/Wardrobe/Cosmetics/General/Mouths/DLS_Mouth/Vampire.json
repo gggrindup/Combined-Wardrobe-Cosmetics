@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.DLS.mouth.Vampire.name"
+    },
+    "Icon": "Icons/Wardrobe/Cosmetics/DLSMouth/Vampire.png"
+  },
+  "CosmeticSlot": "Mouth",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DLSMouth/DLSMouth.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Body_Attachments/Mouths/Mouth1_Textures/Vampire.png",
+      "GradientSet": "Skin"
+    }
+  }
+}

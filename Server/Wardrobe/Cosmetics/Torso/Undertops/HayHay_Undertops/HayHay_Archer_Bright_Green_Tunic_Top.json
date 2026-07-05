@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Archer_Tunic.name"
+    }
+  },
+  "CosmeticSlot": "Undertop",
+  "Appearance": {
+    "Model": "Characters/Overtops/HayHay_Archer_Bright_Green_Tunic/HayHay_Archer_Bright_Green_Tunic.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Overtops/HayHay_Archer_Bright_Green_Tunic/HayHay_Archer_Bright_Green_Tunic.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Archer_Bright_Green_Tunic.png"
+}

@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Frost_Archer_Shoulders.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories2",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Frost_Archer_Shoulders/HayHay_Frost_Archer_Shoulders.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Frost_Archer_Shoulders/HayHay_Frost_Archer_Shoulders.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Frost_Archer_Shoulders.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -12
+    ]
+  }
+}

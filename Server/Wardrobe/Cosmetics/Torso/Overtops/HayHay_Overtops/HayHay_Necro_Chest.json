@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Necro_Chest.name"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Model": "Characters/Overtops/HayHay_Necro_Chest/HayHay_Necro_Chest.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Overtops/HayHay_Necro_Chest/HayHay_Necro_Chest.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Necro_Chest.png",
+  "IconProperties": {
+    "Scale": 0.33,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -39
+    ]
+  }
+}

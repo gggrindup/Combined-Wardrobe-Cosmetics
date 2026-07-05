@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Tunic_Torn_Long.name"
+    }
+  },
+  "CosmeticSlot": "Undertop",
+  "Appearance": {
+    "Model": "Characters/Overtops/HayHay_Tunic_Torn_Long/HayHay_Tunic_Torn_Long.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Overtops/HayHay_Tunic_Torn_Long/HayHay_Tunic_Torn_Long_Purple.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Tunic_Torn_Long_Purple.png",
+  "IconProperties": {
+    "Scale": 0.36,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      2,
+      -47
+    ]
+  }
+}

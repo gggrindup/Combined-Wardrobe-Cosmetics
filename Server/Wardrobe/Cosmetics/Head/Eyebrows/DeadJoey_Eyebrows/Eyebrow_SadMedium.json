@@ -1,0 +1,17 @@
+{
+  "Icon": "Icons/Wardrobe/Cosmetics/Eyebrows/Eyebrow_SadMedium.png",
+  "Properties": {
+    "Translation": {
+      "Name": "server.DeadJoy.eyebrows.SadMedium.name"
+    }
+  },
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DJ_Eyebrows/DJShaved.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DJ_Eyebrows/Eyebrow_SadMedium.png"
+    }
+  },
+  "CosmeticSlot": "Eyebrows"
+}

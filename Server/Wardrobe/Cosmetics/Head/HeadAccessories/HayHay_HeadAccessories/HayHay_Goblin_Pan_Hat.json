@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Goblin_Pan_Hat.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Goblin_Pan_Hat/HayHay_Goblin_Pan_Hat.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Goblin_Pan_Hat/HayHay_Goblin_Pan_Hat.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Goblin_Pan_Hat.png"
+}

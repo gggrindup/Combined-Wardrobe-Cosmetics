@@ -1,0 +1,561 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Chest",
+      "position": {"x": 0, "y": 34, "z": -18},
+      "orientation": {"x": 0, "y": 0.98836, "z": 0, "w": 0.15212},
+      "shape": {
+        "type": "none",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": true
+        },
+        "textureLayout": {},
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "Origin_Projectile",
+          "position": {"x": -33, "y": 44, "z": -14},
+          "orientation": {"x": -0.25882, "y": 0.96593, "z": 0, "w": 0},
+          "shape": {
+            "type": "none",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": true
+            },
+            "textureLayout": {},
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "3",
+              "name": "Origin_Item",
+              "position": {"x": 2, "y": -51, "z": 4},
+              "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+              "shape": {
+                "type": "none",
+                "offset": {"x": 0, "y": 0, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false
+                },
+                "textureLayout": {},
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "4",
+                  "name": "Handle",
+                  "position": {"x": 0, "y": -25, "z": 0},
+                  "orientation": {"x": -0.5, "y": -0.5, "z": 0.5, "w": 0.5},
+                  "shape": {
+                    "type": "box",
+                    "offset": {"x": 0, "y": 0, "z": 0},
+                    "stretch": {"x": 1.2, "y": 1.1, "z": 1.1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 58, "y": 6, "z": 6}
+                    },
+                    "textureLayout": {
+                      "back": {
+                        "offset": {"x": 6, "y": 58},
+                        "mirror": {"x": true, "y": false},
+                        "angle": 90
+                      },
+                      "right": {
+                        "offset": {"x": 64, "y": 0},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "front": {
+                        "offset": {"x": 0, "y": 0},
+                        "mirror": {"x": false, "y": true},
+                        "angle": 90
+                      },
+                      "left": {
+                        "offset": {"x": 0, "y": 58},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "top": {
+                        "offset": {"x": 6, "y": 0},
+                        "mirror": {"x": true, "y": true},
+                        "angle": 270
+                      },
+                      "bottom": {
+                        "offset": {"x": 0, "y": 0},
+                        "mirror": {"x": false, "y": true},
+                        "angle": 90
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": false,
+                    "shadingMode": "flat"
+                  },
+                  "children": [
+                    {
+                      "id": "5",
+                      "name": "Handle3",
+                      "position": {"x": 48.241, "y": 0, "z": 0},
+                      "orientation": {"x": 0.45892, "y": 0.47244, "z": -0.48188, "w": 0.57792},
+                      "shape": {
+                        "type": "box",
+                        "offset": {"x": 0, "y": 11.00005, "z": 0},
+                        "stretch": {"x": 1, "y": 0.9, "z": 1},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 13, "y": 25, "z": 12}
+                        },
+                        "textureLayout": {
+                          "back": {
+                            "offset": {"x": 6, "y": 42},
+                            "mirror": {"x": false, "y": true},
+                            "angle": 0
+                          },
+                          "right": {
+                            "offset": {"x": 19, "y": 42},
+                            "mirror": {"x": false, "y": true},
+                            "angle": 0
+                          },
+                          "front": {
+                            "offset": {"x": 6, "y": 42},
+                            "mirror": {"x": false, "y": true},
+                            "angle": 0
+                          },
+                          "left": {
+                            "offset": {"x": 19, "y": 42},
+                            "mirror": {"x": false, "y": true},
+                            "angle": 0
+                          },
+                          "top": {
+                            "offset": {"x": 34, "y": 51},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "bottom": {
+                            "offset": {"x": 34, "y": 51},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": false,
+                        "shadingMode": "flat"
+                      },
+                      "children": [
+                        {
+                          "id": "6",
+                          "name": "Handle4",
+                          "position": {"x": 0.025, "y": 8.78573, "z": -0.99906},
+                          "orientation": {"x": -0.04854, "y": 0.99859, "z": -0.02087, "w": -0.00602},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": 0, "y": 6.99995, "z": 0},
+                            "stretch": {"x": 1.1, "y": 0.928, "z": 1.1},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 13, "y": 22, "z": 13}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 6, "y": 64},
+                                "mirror": {"x": false, "y": true},
+                                "angle": 0
+                              },
+                              "right": {
+                                "offset": {"x": 19, "y": 64},
+                                "mirror": {"x": false, "y": true},
+                                "angle": 0
+                              },
+                              "front": {
+                                "offset": {"x": 6, "y": 64},
+                                "mirror": {"x": false, "y": true},
+                                "angle": 0
+                              },
+                              "left": {
+                                "offset": {"x": 19, "y": 64},
+                                "mirror": {"x": false, "y": true},
+                                "angle": 0
+                              },
+                              "top": {
+                                "offset": {"x": 34, "y": 51},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "bottom": {
+                                "offset": {"x": 34, "y": 51},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          }
+                        },
+                        {
+                          "id": "7",
+                          "name": "Onion",
+                          "position": {"x": 5.01986, "y": 1.45461, "z": 9.68911},
+                          "orientation": {"x": -0.18869, "y": -0.60469, "z": -0.19042, "w": 0.74999},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": 1, "y": 1, "z": 0},
+                            "stretch": {"x": 0.7, "y": 0.7, "z": 0.7},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 16, "y": 16, "z": 16}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 47, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "right": {
+                                "offset": {"x": 31, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "front": {
+                                "offset": {"x": 47, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "left": {
+                                "offset": {"x": 31, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "top": {
+                                "offset": {"x": 47, "y": 2},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "bottom": {
+                                "offset": {"x": 47, "y": 34},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          },
+                          "children": [
+                            {
+                              "id": "8",
+                              "name": "Onion Tip",
+                              "position": {"x": 0, "y": 6, "z": 0},
+                              "orientation": {"x": 0, "y": -0.34202, "z": 0, "w": 0.93969},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": 0, "y": 0, "z": 0},
+                                "stretch": {"x": 0.45403, "y": 1, "z": 0.5477},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 7, "y": 5, "z": 8}
+                                },
+                                "textureLayout": {
+                                  "back": {
+                                    "offset": {"x": 40, "y": 34},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "right": {
+                                    "offset": {"x": 32, "y": 34},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "front": {
+                                    "offset": {"x": 40, "y": 34},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "left": {
+                                    "offset": {"x": 32, "y": 34},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "9",
+                      "name": "Handle2",
+                      "position": {"x": 29.204, "y": 0, "z": 0},
+                      "orientation": {"x": 0.69743, "y": -0.00368, "z": 0.01552, "w": 0.71648},
+                      "shape": {
+                        "type": "box",
+                        "offset": {"x": 12.994, "y": 0, "z": 0},
+                        "stretch": {"x": 1, "y": 1, "z": 1},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 29, "y": 8, "z": 9}
+                        },
+                        "textureLayout": {
+                          "back": {
+                            "offset": {"x": 35, "y": 9},
+                            "mirror": {"x": true, "y": false},
+                            "angle": 0
+                          },
+                          "right": {
+                            "offset": {"x": 14, "y": 32},
+                            "mirror": {"x": true, "y": false},
+                            "angle": 90
+                          },
+                          "front": {
+                            "offset": {"x": 6, "y": 9},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "left": {
+                            "offset": {"x": 50, "y": 53},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "top": {
+                            "offset": {"x": 6, "y": 0},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "bottom": {
+                            "offset": {"x": 6, "y": 0},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": false,
+                        "shadingMode": "flat"
+                      },
+                      "children": [
+                        {
+                          "id": "10",
+                          "name": "Onion",
+                          "position": {"x": -10.55895, "y": 2.04171, "z": 8.59207},
+                          "orientation": {"x": 0.39176, "y": 0.86684, "z": -0.07409, "w": 0.29938},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": 1, "y": 1, "z": 0},
+                            "stretch": {"x": 0.7, "y": 0.7, "z": 0.7},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 16, "y": 16, "z": 16}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 47, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "right": {
+                                "offset": {"x": 31, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "front": {
+                                "offset": {"x": 47, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "left": {
+                                "offset": {"x": 31, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "top": {
+                                "offset": {"x": 47, "y": 2},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "bottom": {
+                                "offset": {"x": 47, "y": 34},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          },
+                          "children": [
+                            {
+                              "id": "11",
+                              "name": "Onion Tip",
+                              "position": {"x": 0, "y": 6, "z": 0},
+                              "orientation": {"x": 0, "y": -0.34202, "z": 0, "w": 0.93969},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": 0, "y": 0, "z": 0},
+                                "stretch": {"x": 0.45403, "y": 1, "z": 0.5477},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 7, "y": 5, "z": 8}
+                                },
+                                "textureLayout": {
+                                  "back": {
+                                    "offset": {"x": 40, "y": 34},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "right": {
+                                    "offset": {"x": 32, "y": 34},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "front": {
+                                    "offset": {"x": 40, "y": 34},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "left": {
+                                    "offset": {"x": 32, "y": 34},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "12",
+                          "name": "Onion",
+                          "position": {"x": 4.53347, "y": -0.53103, "z": 10.40137},
+                          "orientation": {"x": -0.28968, "y": -0.35816, "z": -0.64684, "w": 0.60778},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": 0, "y": 0, "z": 0},
+                            "stretch": {"x": 0.9, "y": 0.9, "z": 0.9},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 16, "y": 16, "z": 16}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 47, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "right": {
+                                "offset": {"x": 31, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "front": {
+                                "offset": {"x": 47, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "left": {
+                                "offset": {"x": 31, "y": 18},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "top": {
+                                "offset": {"x": 47, "y": 2},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "bottom": {
+                                "offset": {"x": 47, "y": 34},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          },
+                          "children": [
+                            {
+                              "id": "13",
+                              "name": "Onion Tip",
+                              "position": {"x": 0, "y": 9, "z": 0},
+                              "orientation": {"x": 0, "y": -0.34202, "z": 0, "w": 0.93969},
+                              "shape": {
+                                "type": "box",
+                                "offset": {"x": 0, "y": 0, "z": 0},
+                                "stretch": {"x": 0.83407, "y": 1, "z": 0.81208},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 7, "y": 5, "z": 8}
+                                },
+                                "textureLayout": {
+                                  "back": {
+                                    "offset": {"x": 32, "y": 34},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "right": {
+                                    "offset": {"x": 32, "y": 34},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "front": {
+                                    "offset": {"x": 40, "y": 34},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  },
+                                  "left": {
+                                    "offset": {"x": 32, "y": 34},
+                                    "mirror": {"x": false, "y": false},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "format": "character",
+  "lod": "auto"
+}

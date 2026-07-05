@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Sharp_Brows.name"
+    }
+  },
+  "CosmeticSlot": "Eyebrows",
+  "Appearance": {
+    "Model": "Characters/Eyebrows/HayHay_Kweebec_Sharp_Brows/HayHay_Kweebec_Sharp_Brows.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Eyebrows/HayHay_Kweebec_Sharp_Brows/HayHay_Kweebec_Sharp_Brows.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Kweebec_Sharp_Brows.png",
+  "IconProperties": {
+    "Scale": 1.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      2
+    ]
+  }
+}

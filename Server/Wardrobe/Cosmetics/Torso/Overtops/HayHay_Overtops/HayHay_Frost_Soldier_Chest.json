@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Frost_Soldier_Chest.name"
+    }
+  },
+  "CosmeticSlot": "Overtop",
+  "Appearance": {
+    "Model": "Characters/Overtops/HayHay_Frost_Soldier_Chest/HayHay_Frost_Soldier_Chest.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Overtops/HayHay_Frost_Soldier_Chest/HayHay_Frost_Soldier_Chest.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Frost_Soldier_Chest.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -14
+    ]
+  }
+}

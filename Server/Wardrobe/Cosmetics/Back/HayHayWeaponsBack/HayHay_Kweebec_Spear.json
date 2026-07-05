@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Spear.name"
+    }
+  },
+  "CosmeticSlot": "HayHayWeaponsBack",
+  "Appearance": {
+    "Model": "Characters/Weapons/HayHay_Kweebec_Spear/HayHay_Kweebec_Spear.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Weapons/HayHay_Kweebec_Spear/HayHay_Kweebec_Spear.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Kweebec_Spear.png",
+  "IconProperties": {
+    "Scale": 0.27,
+    "Rotation": [
+      33,
+      72,
+      0
+    ],
+    "Translation": [
+      -32,
+      -57
+    ]
+  }
+}

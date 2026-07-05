@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Burnt_Alchemist_Shoes.name"
+    }
+  },
+  "CosmeticSlot": "Shoes",
+  "Appearance": {
+    "Model": "Characters/Shoes/HayHay_Burnt_Alchemist_Shoes/HayHay_Burnt_Alchemist_Shoes.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Shoes/HayHay_Burnt_Alchemist_Shoes/HayHay_Burnt_Alchemist_Shoes.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Burnt_Alchemist_Shoes.png"
+}

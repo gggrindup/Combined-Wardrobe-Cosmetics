@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Outlander_Brute_Battleaxe.name"
+    }
+  },
+  "CosmeticSlot": "HayHayWeaponsBack",
+  "Appearance": {
+    "Model": "Characters/Weapons/HayHay_Outlander_Brute_Battleaxe/HayHay_Outlander_Brute_Battleaxe.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Weapons/HayHay_Outlander_Brute_Battleaxe/HayHay_Outlander_Brute_Battleaxe.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Outlander_Brute_Battleaxe.png",
+  "IconProperties": {
+    "Scale": 0.25,
+    "Rotation": [
+      33,
+      72,
+      0
+    ],
+    "Translation": [
+      -19,
+      -27
+    ]
+  }
+}

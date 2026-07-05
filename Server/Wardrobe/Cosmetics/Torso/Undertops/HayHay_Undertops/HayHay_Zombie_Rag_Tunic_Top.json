@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Zombie_Rag_Tunic.name"
+    }
+  },
+  "CosmeticSlot": "Undertop",
+  "Appearance": {
+    "Model": "Characters/Overtops/HayHay_Zombie_Rag_Tunic/HayHay_Zombie_Rag_Tunic.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Overtops/HayHay_Zombie_Rag_Tunic/HayHay_Zombie_Rag_Tunic.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Zombie_Rag_Tunic.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -57
+    ]
+  }
+}

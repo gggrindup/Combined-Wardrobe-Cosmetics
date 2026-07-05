@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Undead_Cow_Horns.name"
+    }
+  },
+  "CosmeticSlot": "Horns",
+  "Appearance": {
+    "Model": "Characters/Horns/HayHay_Undead_Cow_Horns/HayHay_Undead_Cow_Horns.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Horns/HayHay_Undead_Cow_Horns/HayHay_Undead_Cow_Horns.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Undead_Cow_Horns.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      32,
+      53,
+      27
+    ],
+    "Translation": [
+      -44,
+      -65
+    ]
+  }
+}

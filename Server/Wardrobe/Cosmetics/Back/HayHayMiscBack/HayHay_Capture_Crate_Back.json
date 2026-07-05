@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Capture_Crate_Back.name"
+    }
+  },
+  "CosmeticSlot": "HayHayMiscBack",
+  "Appearance": {
+    "Model": "Characters/Misc/HayHay_Capture_Crate_Back/Capture_Crate.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Misc/HayHay_Capture_Crate_Back/Capture_Crate_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Capture_Crate_Back.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      350,
+      145,
+      360
+    ],
+    "Translation": [
+      2,
+      -16
+    ]
+  }
+}

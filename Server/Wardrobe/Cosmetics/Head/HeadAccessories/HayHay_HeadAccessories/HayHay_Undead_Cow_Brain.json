@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Undead_Cow_Brain.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Undead_Cow_Brain/HayHay_Undead_Cow_Brain.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Undead_Cow_Brain/HayHay_Undead_Cow_Brain.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Undead_Cow_Brain.png",
+  "IconProperties": {
+    "Scale": 0.8,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -1,
+      -5
+    ]
+  }
+}

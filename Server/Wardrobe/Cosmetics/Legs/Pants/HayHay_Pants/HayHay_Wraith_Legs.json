@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Wraith_Legs.name"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Appearance": {
+    "Model": "Characters/Pants/HayHay_Wraith_Legs/HayHay_Wraith_Legs.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Pants/HayHay_Wraith_Legs/HayHay_Wraith_Legs.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Wraith_Legs.png"
+}

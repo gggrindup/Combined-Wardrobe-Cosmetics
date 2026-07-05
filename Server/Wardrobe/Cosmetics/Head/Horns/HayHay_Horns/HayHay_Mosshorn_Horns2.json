@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Mosshorn_Horns.name"
+    }
+  },
+  "CosmeticSlot": "Horns",
+  "Appearance": {
+    "Model": "Characters/Horns/HayHay_Mosshorn_Horns/Model.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Horns/HayHay_Mosshorn_Horns/Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Mosshorn_Horns2.png",
+  "IconProperties": {
+    "Scale": 0.26,
+    "Rotation": [
+      29,
+      21,
+      15
+    ],
+    "Translation": [
+      -4,
+      7
+    ]
+  }
+}

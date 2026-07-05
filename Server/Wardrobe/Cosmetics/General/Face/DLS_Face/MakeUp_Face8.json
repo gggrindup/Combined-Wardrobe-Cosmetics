@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.DLS.face.MakeUp_8.name"
+    },
+    "Icon": "Icons/Wardrobe/Cosmetics/DLSFace/MakeUp_Face8.png"
+  },
+  "CosmeticSlot": "Face",
+  "Appearance": {
+    "Model": "Characters/Body_Attachments/Faces/Player_Face_Detached.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DLSFace/MakeUp_Face8.png",
+      "GradientSet": "Skin"
+    }
+  }
+}

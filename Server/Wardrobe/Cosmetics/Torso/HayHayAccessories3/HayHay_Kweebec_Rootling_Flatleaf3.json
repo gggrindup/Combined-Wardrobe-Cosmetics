@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Rootling_Flatleaf.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories3",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Kweebec_Rootling_Flatleaf/Kweebec_Rootling_Forearm_Flatleaf.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Kweebec_Rootling_Flatleaf/Kweebec_Rootling_Forearm_Flatleaf.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Kweebec_Rootling_Flatleaf.png",
+  "IconProperties": {
+    "Scale": 0.8,
+    "Rotation": [
+      360,
+      313,
+      0
+    ],
+    "Translation": [
+      0,
+      -1
+    ]
+  }
+}

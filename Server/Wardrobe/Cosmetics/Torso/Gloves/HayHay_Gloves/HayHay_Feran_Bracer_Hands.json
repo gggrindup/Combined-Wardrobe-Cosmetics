@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Feran_Bracer_Hands.name"
+    }
+  },
+  "CosmeticSlot": "Gloves",
+  "Appearance": {
+    "Model": "Characters/Gloves/HayHay_Feran_Bracer_Hands/HayHay_Feran_Bracer_Hands.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Gloves/HayHay_Feran_Bracer_Hands/HayHay_Feran_Bracer_Hands.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Feran_Bracer_Hands.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      1,
+      -27
+    ]
+  }
+}

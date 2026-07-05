@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.DLS.eyelashes.Long.name"
+    },
+    "Icon": "Icons/Wardrobe/Cosmetics/Eyelashes/DefaultLong.png"
+  },
+  "CosmeticSlot": "Eyelashes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Eyelashes/DLSEyelashes.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/Eyelashes/DefaultLong.png",
+      "GradientSet": "Hair"
+    }
+  }
+}

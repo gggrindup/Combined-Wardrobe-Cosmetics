@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Trork_Warrior_Gloves.name"
+    }
+  },
+  "CosmeticSlot": "Gloves",
+  "Appearance": {
+    "Model": "Characters/Gloves/HayHay_Trork_Warrior_Gloves/Hands.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Gloves/HayHay_Trork_Warrior_Gloves/Hands_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Trork_Warrior_Gloves.png",
+  "IconProperties": {
+    "Scale": 0.62,
+    "Rotation": [
+      22.5,
+      47,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -1
+    ]
+  }
+}

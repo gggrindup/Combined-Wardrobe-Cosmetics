@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Burnt_Knight_Gloves.name"
+    }
+  },
+  "CosmeticSlot": "Gloves",
+  "Appearance": {
+    "Model": "Characters/Gloves/HayHay_Burnt_Knight_Gloves/HayHay_Burnt_Knight_Gloves.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Gloves/HayHay_Burnt_Knight_Gloves/HayHay_Burnt_Knight_Gloves.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Burnt_Knight_Gloves.png"
+}

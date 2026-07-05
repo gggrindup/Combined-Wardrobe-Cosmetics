@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Alchemist_Potions.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories2",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Alchemist_Potions/HayHay_Alchemist_Potions.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Alchemist_Potions/HayHay_Alchemist_Potions.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Alchemist_Potions.png"
+}

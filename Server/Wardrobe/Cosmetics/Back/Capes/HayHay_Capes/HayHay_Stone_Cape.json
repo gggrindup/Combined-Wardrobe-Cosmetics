@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Stone_Cape.name"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Model": "Characters/Capes/HayHay_Stone_Cape/CapeStone.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Capes/HayHay_Stone_Cape/CapeStone_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Stone_Cape.png",
+  "IconProperties": {
+    "Scale": 0.34,
+    "Rotation": [
+      0,
+      186,
+      22.5
+    ],
+    "Translation": [
+      -3,
+      -7
+    ]
+  }
+}

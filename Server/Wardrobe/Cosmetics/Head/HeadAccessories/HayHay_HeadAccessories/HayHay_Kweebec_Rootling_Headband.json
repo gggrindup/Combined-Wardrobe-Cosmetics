@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Rootling_Headband.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Kweebec_Rootling_Headband/HayHay_Kweebec_Rootling_Headband.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Kweebec_Rootling_Headband/HayHay_Kweebec_Rootling_Headband.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Kweebec_Rootling_Headband.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      351,
+      29,
+      360
+    ],
+    "Translation": [
+      1,
+      -10
+    ]
+  }
+}

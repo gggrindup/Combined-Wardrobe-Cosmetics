@@ -1,0 +1,611 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Head",
+      "position": {"x": 0, "y": -4, "z": -8},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "none",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": true
+        },
+        "textureLayout": {},
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "L-Horn",
+          "position": {"x": 7.67932, "y": 9.99159, "z": -2.26721},
+          "orientation": {"x": 0.28737, "y": 0.8484, "z": 0.21485, "w": -0.38919},
+          "shape": {
+            "type": "box",
+            "offset": {"x": -0.41161, "y": 8.01425, "z": -2.99072},
+            "stretch": {"x": -1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 18, "y": 24, "z": 21}
+            },
+            "textureLayout": {
+              "back": {
+                "offset": {"x": 245, "y": 24},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "right": {
+                "offset": {"x": 287, "y": 24},
+                "mirror": {"x": true, "y": true},
+                "angle": 0
+              },
+              "front": {
+                "offset": {"x": 227, "y": 24},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "left": {
+                "offset": {"x": 266, "y": 24},
+                "mirror": {"x": true, "y": true},
+                "angle": 0
+              },
+              "top": {
+                "offset": {"x": 187, "y": 91},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "bottom": {
+                "offset": {"x": 241, "y": 97},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "3",
+              "name": "L-Horn2",
+              "position": {"x": 0.19215, "y": 9.8331, "z": 1.01728},
+              "orientation": {"x": 0.42318, "y": -0.20216, "z": 0.44911, "w": 0.76049},
+              "shape": {
+                "type": "box",
+                "offset": {"x": 0, "y": 9, "z": 0},
+                "stretch": {"x": -1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 15, "y": 26, "z": 16}
+                },
+                "textureLayout": {
+                  "back": {
+                    "offset": {"x": 259, "y": 24},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {"x": 259, "y": 24},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {"x": 244, "y": 24},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {"x": 228, "y": 24},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {"x": 259, "y": 25},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "bottom": {
+                    "offset": {"x": 258, "y": 42},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 270
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "4",
+                  "name": "L-Horn3",
+                  "position": {"x": -11.63469, "y": 12.73627, "z": -1.12239},
+                  "orientation": {"x": 0.12711, "y": -0.16579, "z": 0.58552, "w": 0.78327},
+                  "shape": {
+                    "type": "box",
+                    "offset": {"x": 0, "y": 0, "z": 0},
+                    "stretch": {"x": -1, "y": 1, "z": 0.90216},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 15, "y": 34, "z": 15}
+                    },
+                    "textureLayout": {
+                      "back": {
+                        "offset": {"x": 244, "y": 50},
+                        "mirror": {"x": true, "y": false},
+                        "angle": 0
+                      },
+                      "right": {
+                        "offset": {"x": 259, "y": 50},
+                        "mirror": {"x": true, "y": false},
+                        "angle": 0
+                      },
+                      "front": {
+                        "offset": {"x": 244, "y": 50},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "left": {
+                        "offset": {"x": 229, "y": 50},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "top": {
+                        "offset": {"x": 259, "y": 69},
+                        "mirror": {"x": true, "y": true},
+                        "angle": 270
+                      },
+                      "bottom": {
+                        "offset": {"x": 259, "y": 27},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": false,
+                    "shadingMode": "flat"
+                  },
+                  "children": [
+                    {
+                      "id": "5",
+                      "name": "L-Horn4",
+                      "position": {"x": 1.29775, "y": 16.6778, "z": -3.58469},
+                      "orientation": {"x": 0.29615, "y": -0.26694, "z": 0.47515, "w": 0.78439},
+                      "shape": {
+                        "type": "box",
+                        "offset": {"x": 0.76668, "y": 12.37668, "z": 5.91805},
+                        "stretch": {"x": -1, "y": 0.84279, "z": 1},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 11, "y": 32, "z": 11}
+                        },
+                        "textureLayout": {
+                          "back": {
+                            "offset": {"x": 286, "y": 27},
+                            "mirror": {"x": true, "y": false},
+                            "angle": 0
+                          },
+                          "right": {
+                            "offset": {"x": 275, "y": 27},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "front": {
+                            "offset": {"x": 275, "y": 27},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "left": {
+                            "offset": {"x": 275, "y": 27},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "top": {
+                            "offset": {"x": 240, "y": 104},
+                            "mirror": {"x": true, "y": true},
+                            "angle": 270
+                          },
+                          "bottom": {
+                            "offset": {"x": 240, "y": 104},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": false,
+                        "shadingMode": "flat"
+                      },
+                      "children": [
+                        {
+                          "id": "6",
+                          "name": "L-Horn5",
+                          "position": {"x": -2.62883, "y": 8.24669, "z": -4.93017},
+                          "orientation": {"x": 0.2722, "y": 0.02715, "z": 0.28, "w": 0.9202},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": 4.97913, "y": 10.93171, "z": 4.24349},
+                            "stretch": {"x": -0.97497, "y": 1, "z": 0.86616},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 11, "y": 23, "z": 11}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 264, "y": 59},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "right": {
+                                "offset": {"x": 264, "y": 59},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "front": {
+                                "offset": {"x": 275, "y": 59},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "left": {
+                                "offset": {"x": 275, "y": 59},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "top": {
+                                "offset": {"x": 264, "y": 82},
+                                "mirror": {"x": true, "y": true},
+                                "angle": 90
+                              },
+                              "bottom": {
+                                "offset": {"x": 238, "y": 102},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          },
+                          "children": [
+                            {
+                              "id": "7",
+                              "name": "L-Horn6",
+                              "position": {"x": 3.63845, "y": 10.14154, "z": 0},
+                              "orientation": {"x": 0, "y": 0, "z": 0.30071, "w": 0.95372},
+                              "shape": {
+                                "type": "quad",
+                                "offset": {"x": -8, "y": 17, "z": 0},
+                                "stretch": {"x": -1, "y": 1, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 26, "y": 38},
+                                  "normal": "+Z"
+                                },
+                                "textureLayout": {
+                                  "front": {
+                                    "offset": {"x": 262, "y": 120},
+                                    "mirror": {"x": false, "y": true},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "name": "R-Horn",
+          "position": {"x": -7.67932, "y": 9.99159, "z": -2.26721},
+          "orientation": {"x": 0.28737, "y": -0.8484, "z": -0.21485, "w": -0.38919},
+          "shape": {
+            "type": "box",
+            "offset": {"x": 0.41161, "y": 8.01425, "z": -2.99072},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 18, "y": 24, "z": 21}
+            },
+            "textureLayout": {
+              "back": {
+                "offset": {"x": 245, "y": 24},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "right": {
+                "offset": {"x": 287, "y": 24},
+                "mirror": {"x": true, "y": true},
+                "angle": 0
+              },
+              "front": {
+                "offset": {"x": 227, "y": 24},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "left": {
+                "offset": {"x": 266, "y": 24},
+                "mirror": {"x": true, "y": true},
+                "angle": 0
+              },
+              "top": {
+                "offset": {"x": 187, "y": 91},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "bottom": {
+                "offset": {"x": 241, "y": 97},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "9",
+              "name": "R-Horn2",
+              "position": {"x": -0.19215, "y": 9.8331, "z": 1.01728},
+              "orientation": {"x": 0.42318, "y": 0.20216, "z": -0.44911, "w": 0.76049},
+              "shape": {
+                "type": "box",
+                "offset": {"x": 0, "y": 9, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 15, "y": 26, "z": 16}
+                },
+                "textureLayout": {
+                  "back": {
+                    "offset": {"x": 259, "y": 24},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {"x": 259, "y": 24},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {"x": 244, "y": 24},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {"x": 228, "y": 24},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {"x": 259, "y": 25},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "bottom": {
+                    "offset": {"x": 258, "y": 42},
+                    "mirror": {"x": false, "y": true},
+                    "angle": 90
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "10",
+                  "name": "R-Horn3",
+                  "position": {"x": 11.63469, "y": 12.73627, "z": -1.12239},
+                  "orientation": {"x": 0.19679, "y": 0.07013, "z": -0.56592, "w": 0.79755},
+                  "shape": {
+                    "type": "box",
+                    "offset": {"x": 0, "y": 0, "z": 0},
+                    "stretch": {"x": 1, "y": 1, "z": 0.90216},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 15, "y": 34, "z": 15}
+                    },
+                    "textureLayout": {
+                      "back": {
+                        "offset": {"x": 244, "y": 50},
+                        "mirror": {"x": true, "y": false},
+                        "angle": 0
+                      },
+                      "right": {
+                        "offset": {"x": 259, "y": 50},
+                        "mirror": {"x": true, "y": false},
+                        "angle": 0
+                      },
+                      "front": {
+                        "offset": {"x": 244, "y": 50},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "left": {
+                        "offset": {"x": 229, "y": 50},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      },
+                      "top": {
+                        "offset": {"x": 202, "y": 93},
+                        "mirror": {"x": true, "y": true},
+                        "angle": 270
+                      },
+                      "bottom": {
+                        "offset": {"x": 259, "y": 27},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": false,
+                    "shadingMode": "flat"
+                  },
+                  "children": [
+                    {
+                      "id": "11",
+                      "name": "R-Horn4",
+                      "position": {"x": -0.35662, "y": 14.30666, "z": -3.42238},
+                      "orientation": {"x": 0.29615, "y": 0.26694, "z": -0.47515, "w": 0.78439},
+                      "shape": {
+                        "type": "box",
+                        "offset": {"x": -0.76668, "y": 12.37668, "z": 5.91805},
+                        "stretch": {"x": 1, "y": 0.84279, "z": 1},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 11, "y": 32, "z": 11}
+                        },
+                        "textureLayout": {
+                          "back": {
+                            "offset": {"x": 286, "y": 27},
+                            "mirror": {"x": true, "y": false},
+                            "angle": 0
+                          },
+                          "right": {
+                            "offset": {"x": 275, "y": 27},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "front": {
+                            "offset": {"x": 275, "y": 27},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "left": {
+                            "offset": {"x": 275, "y": 27},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          },
+                          "top": {
+                            "offset": {"x": 240, "y": 104},
+                            "mirror": {"x": true, "y": true},
+                            "angle": 270
+                          },
+                          "bottom": {
+                            "offset": {"x": 240, "y": 104},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": false,
+                        "shadingMode": "flat"
+                      },
+                      "children": [
+                        {
+                          "id": "12",
+                          "name": "R-Horn5",
+                          "position": {"x": 2.62883, "y": 8.24669, "z": -4.93017},
+                          "orientation": {"x": 0.2722, "y": -0.02715, "z": -0.28, "w": 0.9202},
+                          "shape": {
+                            "type": "box",
+                            "offset": {"x": -4.97913, "y": 10.93171, "z": 4.24349},
+                            "stretch": {"x": 0.97497, "y": 1, "z": 0.86616},
+                            "settings": {
+                              "isPiece": false,
+                              "size": {"x": 11, "y": 23, "z": 11}
+                            },
+                            "textureLayout": {
+                              "back": {
+                                "offset": {"x": 264, "y": 59},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "right": {
+                                "offset": {"x": 264, "y": 59},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "front": {
+                                "offset": {"x": 275, "y": 59},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "left": {
+                                "offset": {"x": 275, "y": 59},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              },
+                              "top": {
+                                "offset": {"x": 275, "y": 71},
+                                "mirror": {"x": true, "y": true},
+                                "angle": 270
+                              },
+                              "bottom": {
+                                "offset": {"x": 238, "y": 102},
+                                "mirror": {"x": false, "y": false},
+                                "angle": 0
+                              }
+                            },
+                            "unwrapMode": "custom",
+                            "visible": true,
+                            "doubleSided": false,
+                            "shadingMode": "flat"
+                          },
+                          "children": [
+                            {
+                              "id": "13",
+                              "name": "R-Horn6",
+                              "position": {"x": -3.63845, "y": 10.14154, "z": 0},
+                              "orientation": {"x": 0, "y": 0, "z": -0.30071, "w": 0.95372},
+                              "shape": {
+                                "type": "quad",
+                                "offset": {"x": 8, "y": 17, "z": 0},
+                                "stretch": {"x": 1, "y": 1, "z": 1},
+                                "settings": {
+                                  "isPiece": false,
+                                  "size": {"x": 26, "y": 38},
+                                  "normal": "+Z"
+                                },
+                                "textureLayout": {
+                                  "front": {
+                                    "offset": {"x": 262, "y": 120},
+                                    "mirror": {"x": false, "y": true},
+                                    "angle": 0
+                                  }
+                                },
+                                "unwrapMode": "custom",
+                                "visible": true,
+                                "doubleSided": true,
+                                "shadingMode": "flat"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "format": "character",
+  "lod": "auto"
+}

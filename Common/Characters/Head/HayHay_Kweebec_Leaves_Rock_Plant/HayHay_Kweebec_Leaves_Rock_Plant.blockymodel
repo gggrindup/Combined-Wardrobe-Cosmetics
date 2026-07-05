@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Head",
+      "position": {"x": 0, "y": 63, "z": 0},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "none",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 0, "y": 0, "z": 0},
+        "settings": {
+          "isPiece": true
+        },
+        "textureLayout": {},
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "Hair-Bun",
+          "position": {"x": 0, "y": 13, "z": 1},
+          "orientation": {"x": -0.10559, "y": -0.24733, "z": 0.09301, "w": 0.95866},
+          "shape": {
+            "type": "box",
+            "offset": {"x": 0, "y": 6, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 6, "y": 6, "z": 6}
+            },
+            "textureLayout": {
+              "back": {
+                "offset": {"x": 19, "y": 90},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "right": {
+                "offset": {"x": 19, "y": 90},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "front": {
+                "offset": {"x": 13, "y": 90},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "left": {
+                "offset": {"x": 19, "y": 90},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "top": {
+                "offset": {"x": 13, "y": 84},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "3",
+              "name": "R-Branch",
+              "position": {"x": -1.04328, "y": 1.65441, "z": -0.70783},
+              "orientation": {"x": 0.24672, "y": 0.30539, "z": 0.41404, "w": 0.82124},
+              "shape": {
+                "type": "box",
+                "offset": {"x": 0, "y": 4, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 3, "y": 8, "z": 4}
+                },
+                "textureLayout": {
+                  "back": {
+                    "offset": {"x": 4, "y": 88},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {"x": 0, "y": 88},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {"x": 7, "y": 88},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {"x": 7, "y": 88},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {"x": 4, "y": 85},
+                    "mirror": {"x": true, "y": true},
+                    "angle": 270
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "4",
+                  "name": "Hair-R",
+                  "position": {"x": 1.22954, "y": 3.69561, "z": -0.02372},
+                  "orientation": {"x": -0.13003, "y": 0.63214, "z": 0.16869, "w": 0.745},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": 0.5, "y": 11, "z": 0},
+                    "stretch": {"x": 1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 23, "y": 22},
+                      "normal": "-Z"
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 0, "y": 22},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  },
+                  "children": [
+                    {
+                      "id": "5",
+                      "name": "Hair-R2",
+                      "position": {"x": 0, "y": 11, "z": 0},
+                      "orientation": {"x": -0.21644, "y": 0, "z": 0, "w": 0.9763},
+                      "shape": {
+                        "type": "quad",
+                        "offset": {"x": 0, "y": 11, "z": 0},
+                        "stretch": {"x": 1, "y": 1, "z": 1},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 23, "y": 22},
+                          "normal": "-Z"
+                        },
+                        "textureLayout": {
+                          "front": {
+                            "offset": {"x": 0, "y": 0},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": true,
+                        "shadingMode": "flat"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "name": "L-Branch",
+              "position": {"x": 1.56524, "y": 1.09359, "z": -1.10953},
+              "orientation": {"x": -0.25913, "y": -0.78695, "z": 0.51713, "w": -0.21479},
+              "shape": {
+                "type": "box",
+                "offset": {"x": 0, "y": 4, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 4, "y": 8, "z": 2}
+                },
+                "textureLayout": {
+                  "back": {
+                    "offset": {"x": 0, "y": 88},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {"x": 6, "y": 88},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {"x": 7, "y": 88},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {"x": 4, "y": 88},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {"x": 0, "y": 86},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "7",
+                  "name": "Hair-L",
+                  "position": {"x": 0.3272, "y": 4.50376, "z": -0.35034},
+                  "orientation": {"x": 0.00151, "y": 0.95836, "z": 0.28244, "w": 0.042},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": 0.5, "y": 4, "z": 0},
+                    "stretch": {"x": 1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 11, "y": 10},
+                      "normal": "-Z"
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 18, "y": 58},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  },
+                  "children": [
+                    {
+                      "id": "8",
+                      "name": "Hair-L2",
+                      "position": {"x": -0.5, "y": 5, "z": 0},
+                      "orientation": {"x": -0.21644, "y": 0, "z": 0, "w": 0.9763},
+                      "shape": {
+                        "type": "quad",
+                        "offset": {"x": 0, "y": 7, "z": 0},
+                        "stretch": {"x": 1, "y": 1, "z": 1},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 10, "y": 14},
+                          "normal": "-Z"
+                        },
+                        "textureLayout": {
+                          "front": {
+                            "offset": {"x": 19, "y": 44},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": true,
+                        "shadingMode": "flat"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "9",
+              "name": "Back-Branch",
+              "position": {"x": -0.8406, "y": 0.63387, "z": -1.13364},
+              "orientation": {"x": -0.15717, "y": -0.27568, "z": 0.36042, "w": 0.87715},
+              "shape": {
+                "type": "box",
+                "offset": {"x": 0, "y": 4, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 2, "y": 8, "z": 4}
+                },
+                "textureLayout": {
+                  "back": {
+                    "offset": {"x": 4, "y": 88},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {"x": 0, "y": 88},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {"x": 6, "y": 88},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {"x": 7, "y": 88},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {"x": 4, "y": 86},
+                    "mirror": {"x": true, "y": true},
+                    "angle": 270
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "10",
+                  "name": "Hair-B",
+                  "position": {"x": 0.84252, "y": 3.93706, "z": 1.03453},
+                  "orientation": {"x": 0.2473, "y": -0.68378, "z": -0.23459, "w": -0.64518},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": 0.5, "y": 8.5, "z": 0},
+                    "stretch": {"x": 1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 18, "y": 17},
+                      "normal": "-Z"
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 0, "y": 62},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  },
+                  "children": [
+                    {
+                      "id": "11",
+                      "name": "Hair-B2",
+                      "position": {"x": 0, "y": 8.5, "z": 0},
+                      "orientation": {"x": -0.21644, "y": 0, "z": 0, "w": 0.9763},
+                      "shape": {
+                        "type": "quad",
+                        "offset": {"x": 0, "y": 9, "z": 0},
+                        "stretch": {"x": 1, "y": 1, "z": 1},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 18, "y": 18},
+                          "normal": "-Z"
+                        },
+                        "textureLayout": {
+                          "front": {
+                            "offset": {"x": 0, "y": 44},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": true,
+                        "shadingMode": "flat"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "12",
+              "name": "Front-Branch",
+              "position": {"x": 2.67652, "y": 0.6739, "z": 1.18242},
+              "orientation": {"x": 0.67976, "y": 0.68736, "z": 0.21448, "w": 0.13948},
+              "shape": {
+                "type": "box",
+                "offset": {"x": 0, "y": 3, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 2, "y": 6, "z": 4}
+                },
+                "textureLayout": {
+                  "back": {
+                    "offset": {"x": 4, "y": 88},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "right": {
+                    "offset": {"x": 0, "y": 88},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "front": {
+                    "offset": {"x": 6, "y": 88},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  },
+                  "left": {
+                    "offset": {"x": 7, "y": 88},
+                    "mirror": {"x": false, "y": false},
+                    "angle": 0
+                  },
+                  "top": {
+                    "offset": {"x": 4, "y": 86},
+                    "mirror": {"x": true, "y": true},
+                    "angle": 270
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": false,
+                "shadingMode": "flat"
+              },
+              "children": [
+                {
+                  "id": "13",
+                  "name": "Hair-F",
+                  "position": {"x": 0.78144, "y": 1.32415, "z": 0.93383},
+                  "orientation": {"x": 0.07179, "y": 0.6725, "z": 0.06454, "w": 0.73377},
+                  "shape": {
+                    "type": "quad",
+                    "offset": {"x": 0.5, "y": 8.5, "z": 0},
+                    "stretch": {"x": 1, "y": 1, "z": 1},
+                    "settings": {
+                      "isPiece": false,
+                      "size": {"x": 18, "y": 17},
+                      "normal": "-Z"
+                    },
+                    "textureLayout": {
+                      "front": {
+                        "offset": {"x": 0, "y": 62},
+                        "mirror": {"x": false, "y": false},
+                        "angle": 0
+                      }
+                    },
+                    "unwrapMode": "custom",
+                    "visible": true,
+                    "doubleSided": true,
+                    "shadingMode": "flat"
+                  },
+                  "children": [
+                    {
+                      "id": "14",
+                      "name": "Hair-F2",
+                      "position": {"x": 0, "y": 8.5, "z": 0},
+                      "orientation": {"x": -0.21644, "y": 0, "z": 0, "w": 0.9763},
+                      "shape": {
+                        "type": "quad",
+                        "offset": {"x": 0, "y": 9, "z": 0},
+                        "stretch": {"x": 1, "y": 1, "z": 1},
+                        "settings": {
+                          "isPiece": false,
+                          "size": {"x": 18, "y": 18},
+                          "normal": "-Z"
+                        },
+                        "textureLayout": {
+                          "front": {
+                            "offset": {"x": 0, "y": 44},
+                            "mirror": {"x": false, "y": false},
+                            "angle": 0
+                          }
+                        },
+                        "unwrapMode": "custom",
+                        "visible": true,
+                        "doubleSided": true,
+                        "shadingMode": "flat"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "format": "character",
+  "lod": "auto"
+}

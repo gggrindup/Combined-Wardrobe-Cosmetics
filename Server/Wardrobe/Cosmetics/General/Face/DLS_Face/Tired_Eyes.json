@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.DLS.face.Tired.name"
+    },
+    "Icon": "Icons/Wardrobe/Cosmetics/DLSFace/Tired_Eyes.png"
+  },
+  "CosmeticSlot": "Face",
+  "Appearance": {
+    "Model": "Characters/Body_Attachments/Faces/Player_Face_Detached.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DLSFace/Tired_Eyes.png",
+      "GradientSet": "Skin"
+    }
+  }
+}

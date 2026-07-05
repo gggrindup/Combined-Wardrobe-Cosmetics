@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Red_Nose.name"
+    }
+  },
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Characters/FaceAccessories/HayHay_Red_Nose/HayHay_Red_Nose.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/FaceAccessories/HayHay_Red_Nose/HayHay_Red_Nose.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Red_Nose.png",
+  "IconProperties": {
+    "Scale": 1.2,
+    "Rotation": [
+      192,
+      45,
+      22.5
+    ],
+    "Translation": [
+      108,
+      72
+    ]
+  }
+}

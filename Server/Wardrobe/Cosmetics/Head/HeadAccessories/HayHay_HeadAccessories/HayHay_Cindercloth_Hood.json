@@ -1,0 +1,32 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Cindercloth_Hood.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "HiddenCosmeticSlots": [
+    "Ears",
+    "Haircut",
+    "EarAccessory"
+  ],
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Cindercloth_Hood/Head.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Cindercloth_Hood/Head_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Cindercloth_Hood.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -3,
+      -1
+    ]
+  }
+}

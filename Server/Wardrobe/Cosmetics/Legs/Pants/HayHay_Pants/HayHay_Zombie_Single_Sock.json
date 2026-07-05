@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Zombie_Single_Sock.name"
+    }
+  },
+  "CosmeticSlot": "Overpants",
+  "Appearance": {
+    "Model": "Characters/Socks/HayHay_Zombie_Single_Sock/HayHay_Zombie_Single_Sock.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Socks/HayHay_Zombie_Single_Sock/HayHay_Zombie_Single_Sock.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Zombie_Single_Sock.png",
+  "IconProperties": {
+    "Scale": 0.7,
+    "Rotation": [
+      22.5,
+      37,
+      22.5
+    ],
+    "Translation": [
+      1,
+      -8
+    ]
+  }
+}

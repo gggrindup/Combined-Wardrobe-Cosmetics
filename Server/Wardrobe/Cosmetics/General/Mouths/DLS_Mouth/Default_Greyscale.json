@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.DLS.mouth.Default.name"
+    },
+    "Icon": "Icons/Wardrobe/Cosmetics/DLSMouth/Default.png"
+  },
+  "CosmeticSlot": "Mouth",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DLSMouth/DLSMouth.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Body_Attachments/Mouths/Mouth1_Textures/Default_Greyscale.png",
+      "GradientSet": "Skin"
+    }
+  }
+}

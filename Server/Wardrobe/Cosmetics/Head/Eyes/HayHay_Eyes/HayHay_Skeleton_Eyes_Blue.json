@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Skeleton_Eyes_Blue.name"
+    }
+  },
+  "CosmeticSlot": "Eyes",
+  "Appearance": {
+    "Model": "Characters/Eyes/HayHay_Skeleton_Eyes_Blue/HayHay_Skeleton_Eyes_Blue.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Eyes/HayHay_Skeleton_Eyes_Blue/HayHay_Skeleton_Eyes_Blue.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Skeleton_Eyes_Blue.png",
+  "IconProperties": {
+    "Scale": 1.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -7,
+      -85
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Hunter_Legs.name"
+    }
+  },
+  "CosmeticSlot": "Pants",
+  "Appearance": {
+    "Model": "Characters/Pants/HayHay_Hunter_Legs/HayHay_Hunter_Legs.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Pants/HayHay_Hunter_Legs/HayHay_Hunter_Legs.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Hunter_Legs.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -21
+    ]
+  }
+}

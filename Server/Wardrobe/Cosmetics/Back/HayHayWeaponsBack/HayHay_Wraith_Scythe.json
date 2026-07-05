@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Wraith_Scythe.name"
+    }
+  },
+  "CosmeticSlot": "HayHayWeaponsBack",
+  "Appearance": {
+    "Model": "Characters/Weapons/HayHay_Wraith_Scythe/HayHay_Wraith_Scythe.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Weapons/HayHay_Wraith_Scythe/HayHay_Wraith_Scythe.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Wraith_Scythe.png",
+  "IconProperties": {
+    "Scale": 0.18,
+    "Rotation": [
+      18,
+      44,
+      328
+    ],
+    "Translation": [
+      -69,
+      -88
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Elf_Purple_Mouth.name"
+    }
+  },
+  "CosmeticSlot": "Mouth",
+  "Appearance": {
+    "Model": "Characters/Mouth/HayHay_Elf_Purple_Mouth/HayHay_Elf_Purple_Mouth.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Mouth/HayHay_Elf_Purple_Mouth/HayHay_Elf_Purple_Mouth.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Elf_Purple_Mouth.png",
+  "IconProperties": {
+    "Scale": 2.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -8,
+      -77
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Kweebec_Sapling_Mask.name",
+      "Description": "server.items.HayHay_Kweebec_Sapling_Orange_Mask.description"
+    }
+  },
+  "CosmeticSlot": "HayHayHeads",
+  "HiddenCosmeticSlots": [
+    "Ears",
+    "Haircut",
+    "EarAccessory",
+    "Face"
+  ],
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Kweebec_Sapling_Mask/HayHay_Kweebec_Sapling_Mask.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Kweebec_Sapling_Mask/HayHay_Kweebec_Sapling_Orange_Mask.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Kweebec_Sapling_Orange_Mask.png"
+}

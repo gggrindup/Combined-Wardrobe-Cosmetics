@@ -1,0 +1,17 @@
+{
+  "CosmeticSlot": "EarAccessory",
+  "Properties": {
+    "Translation": {
+      "Name": "server.DeadJoy.earaccessories.ElfEarLongEarrings.name"
+    }
+  },
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DJ_EarAccessory/EarLongElfHoops.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Ornamented_Metal",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DJ_EarAccessory/EarLongElfHoops.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/Ear_accessories/EarLongElfHoops.png"
+}

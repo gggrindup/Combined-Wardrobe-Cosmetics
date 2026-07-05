@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Slothian_Warrior_Head.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Slothian_Warrior_Head/HayHay_Slothian_Warrior_Head.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Slothian_Warrior_Head/HayHay_Slothian_Warrior_Head.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Slothian_Warrior_Head.png",
+  "IconProperties": {
+    "Scale": 0.44,
+    "Rotation": [
+      13,
+      38,
+      18
+    ],
+    "Translation": [
+      1,
+      -19
+    ]
+  }
+}

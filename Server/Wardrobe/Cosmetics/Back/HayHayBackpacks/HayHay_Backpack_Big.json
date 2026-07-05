@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Backpack_Big.name"
+    }
+  },
+  "CosmeticSlot": "HayHayBackpacks",
+  "Appearance": {
+    "Model": "Characters/Capes/HayHay_Backpack_Big/HayHay_Backpack_Big.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Capes/HayHay_Backpack_Big/HayHay_Backpack_Big.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Backpack_Big.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -60
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.DeadJoy.eyebrows.Slender.name"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/Eyebrows/Eyebrow_Slender.png",
+  "CosmeticSlot": "Eyebrows",
+  "Appearance": {
+    "Model": "Characters/Body_Attachments/Eyebrows/Shaved.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DJ_Eyebrows/Eyebrow_Slender.png"
+    }
+  }
+}

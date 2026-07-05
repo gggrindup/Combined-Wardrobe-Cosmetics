@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.DeadJoy.faceaccessories.Glasses_NoLens.name"
+    }
+  },
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DJ_FaceAccessories/Glasses.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Colored_Cotton",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DJ_FaceAccessories/Round_Glasses_Greyscale.png"
+    }
+  },
+  "CosmeticSlot": "FaceAccessory",
+  "Icon": "Icons/Wardrobe/Cosmetics/Face_accessories/Glasses_NoLens.png"
+}

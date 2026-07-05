@@ -1,0 +1,15 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Hedera_Crown.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Hedera_Crown/HayHay_Hedera_Crown.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Hedera_Crown/HayHay_Hedera_Crown.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Hedera_Crown.png"
+}

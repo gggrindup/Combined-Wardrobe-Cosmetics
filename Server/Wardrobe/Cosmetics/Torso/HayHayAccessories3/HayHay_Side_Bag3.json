@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Side_Bag.name"
+    }
+  },
+  "CosmeticSlot": "HayHayAccessories3",
+  "Appearance": {
+    "Model": "Characters/HayHayAccessories/HayHay_Side_Bag/HayHay_Side_Bag.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/HayHayAccessories/HayHay_Side_Bag/HayHay_Side_Bag.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Side_Bag.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      193,
+      45,
+      110
+    ],
+    "Translation": [
+      47,
+      -19
+    ]
+  }
+}

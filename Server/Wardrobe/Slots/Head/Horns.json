@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Horns.name"
+    }
+  },
+  "Category": "Head",
+  "SelectedIcon": "Icons/Wardrobe/Slots/HornSlotSelected.png",
+  "Order": 10,
+  "Icon": "Icons/Wardrobe/Slots/HornSlot.png",
+  "Camera": {
+    "Distance": 1.5,
+    "Y": 0.2,
+    "Yaw": 180,
+    "Pitch": -25
+  }
+}

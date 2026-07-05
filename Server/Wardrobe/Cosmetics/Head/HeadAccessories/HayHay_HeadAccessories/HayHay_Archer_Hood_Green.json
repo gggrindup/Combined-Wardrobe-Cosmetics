@@ -1,0 +1,20 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Archer_Hood.name"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "HiddenCosmeticSlots": [
+    "Ears",
+    "Haircut",
+    "EarAccessory"
+  ],
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Archer_Hood_Green/HayHay_Archer_Hood_Green.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Head/HayHay_Archer_Hood_Green/HayHay_Archer_Hood_Green.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/HayHay_Archer_Hood_Green.png"
+}

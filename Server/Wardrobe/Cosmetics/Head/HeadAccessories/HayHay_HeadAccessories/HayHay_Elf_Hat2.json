@@ -1,0 +1,30 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Elf_Hat.name",
+      "Description": "server.items.HayHay_Fantasy_Cotton.description"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Elf_Hat.png",
+  "Appearance": {
+    "Model": "Characters/Head/HayHay_Elf_Hat/ElfHat.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GrayscaleTexture": "Characters/Head/HayHay_Elf_Hat/ElfHat_Greyscale_Texture.png",
+      "GradientSet": "Fantasy_Cotton"
+    }
+  },
+  "IconProperties": {
+    "Scale": 0.46,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      1,
+      -17
+    ]
+  }
+}

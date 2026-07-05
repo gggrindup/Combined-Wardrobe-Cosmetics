@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Necro_Shirt.name"
+    }
+  },
+  "CosmeticSlot": "Undertop",
+  "Appearance": {
+    "Model": "Characters/Undertops/HayHay_Necro_Shirt/HayHay_Necro_Shirt.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Undertops/HayHay_Necro_Shirt/HayHay_Necro_Shirt.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Necro_Shirt.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -60
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Icon": "Icons/Wardrobe/Cosmetics/Eyelashes/Eyelash_Sly.png",
+  "Properties": {
+    "Translation": {
+      "Name": "server.DeadJoy.eyelashes.Sly.name"
+    }
+  },
+  "CosmeticSlot": "Eyelashes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/DJ_Eyelashes/DJ_Eyelashes.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DJ_Eyelashes/Eyelash_Sly.png"
+    }
+  }
+}

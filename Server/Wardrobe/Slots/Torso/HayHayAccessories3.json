@@ -1,0 +1,11 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Accessories3.name"
+    }
+  },
+  "Category": "Torso",
+  "SelectedIcon": "Icons/Wardrobe/Slots/AccessorySlotSelected.png",
+  "Order": 12,
+  "Icon": "Icons/Wardrobe/Slots/AccessorySlot.png"
+}

@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Frost_Quiver.name"
+    }
+  },
+  "CosmeticSlot": "HayHayWeaponsBack",
+  "Appearance": {
+    "Model": "Characters/Capes/HayHay_Frost_Quiver/HayHay_Frost_Quiver.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Capes/HayHay_Frost_Quiver/HayHay_Frost_Quiver.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Frost_Quiver.png",
+  "IconProperties": {
+    "Scale": 0.45,
+    "Rotation": [
+      1,
+      10,
+      303
+    ],
+    "Translation": [
+      1,
+      -13
+    ]
+  }
+}

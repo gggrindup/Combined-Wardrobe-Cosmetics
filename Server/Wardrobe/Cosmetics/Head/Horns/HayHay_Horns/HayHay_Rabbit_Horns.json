@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Rabbit_Horns.name"
+    }
+  },
+  "CosmeticSlot": "Horns",
+  "Appearance": {
+    "Model": "Characters/Horns/HayHay_Rabbit_Horns/HayHay_Rabbit_Horns.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Horns/HayHay_Rabbit_Horns/HayHay_Rabbit_Horns.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Rabbit_Horns.png",
+  "IconProperties": {
+    "Scale": 1,
+    "Rotation": [
+      32,
+      45,
+      15
+    ],
+    "Translation": [
+      1,
+      -17
+    ]
+  }
+}

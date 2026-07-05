@@ -1,0 +1,330 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Chest",
+      "position": {"x": 0, "y": 62, "z": -30},
+      "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+      "shape": {
+        "type": "box",
+        "offset": {"x": 0, "y": 0, "z": 0},
+        "stretch": {"x": 1, "y": 1, "z": 1},
+        "settings": {
+          "isPiece": false,
+          "size": {"x": 20, "y": 4, "z": 20}
+        },
+        "textureLayout": {
+          "back": {
+            "offset": {"x": 38, "y": 45},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "right": {
+            "offset": {"x": 38, "y": 45},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "front": {
+            "offset": {"x": 38, "y": 45},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "left": {
+            "offset": {"x": 38, "y": 45},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          },
+          "bottom": {
+            "offset": {"x": 6, "y": 38},
+            "mirror": {"x": false, "y": false},
+            "angle": 0
+          }
+        },
+        "unwrapMode": "custom",
+        "visible": true,
+        "doubleSided": false,
+        "shadingMode": "flat"
+      },
+      "children": [
+        {
+          "id": "2",
+          "name": "Hive-Mid",
+          "position": {"x": 0, "y": 13.90284, "z": 0},
+          "orientation": {"x": 0.03515, "y": -0.99895, "z": 0.02926, "w": -0.00103},
+          "shape": {
+            "type": "box",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 32, "y": 14, "z": 32}
+            },
+            "textureLayout": {
+              "back": {
+                "offset": {"x": 32, "y": 22},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "right": {
+                "offset": {"x": 32, "y": 22},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "front": {
+                "offset": {"x": 32, "y": 50},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "left": {
+                "offset": {"x": 32, "y": 22},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "top": {
+                "offset": {"x": 0, "y": 0},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "bottom": {
+                "offset": {"x": 0, "y": 32},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Hive-Base2",
+          "position": {"x": 0, "y": 4.69752, "z": 0},
+          "orientation": {"x": -0.01482, "y": 0.06933, "z": 0.07089, "w": 0.99496},
+          "shape": {
+            "type": "box",
+            "offset": {"x": 0, "y": 0, "z": 0},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 26, "y": 9, "z": 26}
+            },
+            "textureLayout": {
+              "back": {
+                "offset": {"x": 35, "y": 36},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "right": {
+                "offset": {"x": 35, "y": 36},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "front": {
+                "offset": {"x": 35, "y": 36},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "left": {
+                "offset": {"x": 35, "y": 36},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "bottom": {
+                "offset": {"x": 13, "y": 64},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "4",
+              "name": "Hive-Base-Part",
+              "position": {"x": 13, "y": -1, "z": -5},
+              "orientation": {"x": 0, "y": 0.84339, "z": 0, "w": 0.5373},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": -4, "y": 0, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 8, "y": 6},
+                  "normal": "+Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 8, "y": 76},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "name": "Hive-Top2",
+          "position": {"x": 0, "y": 24.22696, "z": 0},
+          "orientation": {"x": 0.07794, "y": 0.02033, "z": -0.02325, "w": 0.99648},
+          "shape": {
+            "type": "box",
+            "offset": {"x": 0, "y": -2, "z": 0},
+            "stretch": {"x": 1, "y": -1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 25, "y": 12, "z": 25}
+            },
+            "textureLayout": {
+              "back": {
+                "offset": {"x": 36, "y": 22},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "right": {
+                "offset": {"x": 36, "y": 22},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "front": {
+                "offset": {"x": 36, "y": 22},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "left": {
+                "offset": {"x": 36, "y": 22},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "bottom": {
+                "offset": {"x": 39, "y": 89},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "6",
+              "name": "Hive-Top-Part",
+              "position": {"x": -12.5, "y": 0, "z": -5},
+              "orientation": {"x": 0, "y": 0.5373, "z": 0, "w": 0.84339},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": -4, "y": 0, "z": 0},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 8, "y": 8},
+                  "normal": "+Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 8, "y": 65},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "name": "Hive-Top",
+          "position": {"x": 0, "y": 31.27817, "z": 0},
+          "orientation": {"x": -0.07023, "y": 0.07765, "z": -0.0032, "w": 0.9945},
+          "shape": {
+            "type": "box",
+            "offset": {"x": 0, "y": -2, "z": 0},
+            "stretch": {"x": 1, "y": -1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 18, "y": 8, "z": 18}
+            },
+            "textureLayout": {
+              "back": {
+                "offset": {"x": 39, "y": 10},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "right": {
+                "offset": {"x": 39, "y": 10},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "front": {
+                "offset": {"x": 39, "y": 10},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "left": {
+                "offset": {"x": 39, "y": 10},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              },
+              "bottom": {
+                "offset": {"x": 7, "y": 7},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          },
+          "children": [
+            {
+              "id": "8",
+              "name": "Hive-Top-Part",
+              "position": {"x": 4, "y": 6, "z": 3},
+              "orientation": {"x": 0.68757, "y": -0.48674, "z": 0.16507, "w": 0.51292},
+              "shape": {
+                "type": "quad",
+                "offset": {"x": -4, "y": 0, "z": 2},
+                "stretch": {"x": 1, "y": 1, "z": 1},
+                "settings": {
+                  "isPiece": false,
+                  "size": {"x": 8, "y": 8},
+                  "normal": "+Z"
+                },
+                "textureLayout": {
+                  "front": {
+                    "offset": {"x": 8, "y": 83},
+                    "mirror": {"x": true, "y": false},
+                    "angle": 0
+                  }
+                },
+                "unwrapMode": "custom",
+                "visible": true,
+                "doubleSided": true,
+                "shadingMode": "flat"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "format": "character",
+  "lod": "auto"
+}

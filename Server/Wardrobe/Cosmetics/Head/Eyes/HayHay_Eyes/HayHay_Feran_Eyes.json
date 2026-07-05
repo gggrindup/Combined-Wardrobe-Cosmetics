@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.items.HayHay_Feran_Eyes.name"
+    }
+  },
+  "CosmeticSlot": "Eyes",
+  "Appearance": {
+    "Model": "Characters/Eyes/HayHay_Feran_Eyes/HayHay_Feran_Eyes.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Eyes/HayHay_Feran_Eyes/HayHay_Feran_Eyes.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/Cosmetics/HayHay_Icons/CosmeticsGenerated/HayHay_Feran_Eyes.png",
+  "IconProperties": {
+    "Scale": 1.9,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -7,
+      -84
+    ]
+  }
+}
