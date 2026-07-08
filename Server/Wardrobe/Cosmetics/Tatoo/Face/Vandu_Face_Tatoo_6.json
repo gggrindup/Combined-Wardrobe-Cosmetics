@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.LunEye.wardrobe.tatoo.vandu_face_6.name"
+    }
+  },
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Tatoo/Face/Face_Tatoo.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/Tatoo/Face/Textures/Vandu_Face_Tatoo_6.png"
+    }
+  },
+  "CosmeticSlot": "Face_Tatoo",
+  "Icon": "Icons/Wardrobe/Cosmetics/Tatoo/Face/Vandu_Face_Tatoo_6.png"
+}

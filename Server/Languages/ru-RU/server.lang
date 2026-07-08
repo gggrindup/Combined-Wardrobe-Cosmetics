@@ -704,6 +704,9 @@ DLS.eyelashes.Medium.name = Средние ресницы
 
 wardrobe.cosmetics.categories.tatoo.name = Татуировки
 wardrobe.cosmetics.tatoo.slots.face.name = Лицо
+wardrobe.cosmetics.tatoo.slots.body.name = Тело
+wardrobe.cosmetics.tatoo.slots.hands.name = Руки
+wardrobe.cosmetics.tatoo.slots.legs.name = Ноги
 
 LunEye.wardrobe.tatoo.orc_face_1.name = Тату орков на лицо 1
 LunEye.wardrobe.tatoo.orc_face_2.name = Тату орков на лицо 2
