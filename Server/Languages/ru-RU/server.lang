@@ -702,6 +702,31 @@ DLS.eyelashes.Long.name = Длинные ресницы
 DLS.eyelashes.Medium.name = Средние ресницы
 
 
-wardrobe.cosmetics.slots.tatoo.name = Татуировки
+wardrobe.cosmetics.categories.tatoo.name = Татуировки
+wardrobe.cosmetics.tatoo.slots.face.name = Лицо
 
-LunEye.wardrobe.tatoo.orc_face_1.name = Тату орков на лицо
+LunEye.wardrobe.tatoo.orc_face_1.name = Тату орков на лицо 1
+LunEye.wardrobe.tatoo.orc_face_2.name = Тату орков на лицо 2
+LunEye.wardrobe.tatoo.orc_face_3.name = Тату орков на лицо 3
+LunEye.wardrobe.tatoo.orc_face_4.name = Тату орков на лицо 4
+LunEye.wardrobe.tatoo.orc_face_5.name = Тату орков на лицо 5
+LunEye.wardrobe.tatoo.orc_face_6.name = Тату орков на лицо 6
+LunEye.wardrobe.tatoo.orc_face_7.name = Тату орков на лицо 7
+LunEye.wardrobe.tatoo.orc_face_8.name = Тату орков на лицо 8
+LunEye.wardrobe.tatoo.orc_face_9.name = Тату орков на лицо 9
+LunEye.wardrobe.tatoo.orc_face_10.name = Тату орков на лицо 10
+LunEye.wardrobe.tatoo.orc_face_11.name = Тату орков на лицо 11
+LunEye.wardrobe.tatoo.orc_face_12.name = Тату орков на лицо 12
+
+LunEye.wardrobe.tatoo.vandu_face_1.name = Тату ванду на лицо 1
+LunEye.wardrobe.tatoo.vandu_face_2.name = Тату ванду на лицо 2
+LunEye.wardrobe.tatoo.vandu_face_3.name = Тату ванду на лицо 3
+LunEye.wardrobe.tatoo.vandu_face_4.name = Тату ванду на лицо 4
+LunEye.wardrobe.tatoo.vandu_face_5.name = Тату ванду на лицо 5
+LunEye.wardrobe.tatoo.vandu_face_6.name = Тату ванду на лицо 6
+LunEye.wardrobe.tatoo.vandu_face_7.name = Тату ванду на лицо 7
+LunEye.wardrobe.tatoo.vandu_face_8.name = Тату ванду на лицо 8
+LunEye.wardrobe.tatoo.vandu_face_9.name = Тату ванду на лицо 9
+LunEye.wardrobe.tatoo.vandu_face_10.name = Тату ванду на лицо 10
+LunEye.wardrobe.tatoo.vandu_face_11.name = Тату ванду на лицо 11
+LunEye.wardrobe.tatoo.vandu_face_12.name = Тату ванду на лицо 12

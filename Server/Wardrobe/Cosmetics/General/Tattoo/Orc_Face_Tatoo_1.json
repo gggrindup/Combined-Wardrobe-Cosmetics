@@ -5,11 +5,11 @@
     }
   },
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Tatoo/Orc_Face_Tatoo_1/Orc_Face_Tatoo_1.blockymodel",
+    "Model": "Characters/Wardrobe/Cosmetics/Tatoo/Models/Face_Tatoo.blockymodel",
     "TextureConfig": {
       "Type": "Gradient",
       "GradientSet": "Hair",
-      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/Tatoo/Orc_Face_Tatoo_1/Orc_Face_Tatoo_1.png"
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/Tatoo/Textures/Orc_Face_Tatoo_1.png"
     }
   },
   "CosmeticSlot": "Tatoo",

@@ -1,0 +1,11 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.wardrobe.cosmetics.tatoo.slots.face.name"
+    }
+  },
+  "Category": "Tatoo",
+  "Icon": "Icons/Wardrobe/Categories/Tatoo.png",
+  "SelectedIcon": "Icons/Wardrobe/Categories/TatooSelected.png",
+  "Order": 1
+}

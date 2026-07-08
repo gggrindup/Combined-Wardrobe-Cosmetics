@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.LunEye.wardrobe.tatoo.orc_face_10.name"
+    }
+  },
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Tatoo/Models/Face_Tatoo.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/Tatoo/Textures/Orc_Face_Tatoo_10.png"
+    }
+  },
+  "CosmeticSlot": "Tatoo",
+  "Icon": "Characters/Wardrobe/Cosmetics/Tatoo/Textures/Orc_Face_Tatoo_10.png"
+}

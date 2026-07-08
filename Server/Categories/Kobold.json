@@ -1,0 +1,11 @@
+{
+  "Properties": {
+    "Icon": "Icons/Wardrobe/Categories/Kobold.png",
+    "Translation": {
+      "Name": "Kobold"
+    }
+  },
+  "SelectedIcon": "Icons/Wardrobe/Categories/KoboldSelected.png",
+  "Order": 5,
+  "Icon": "Icons/Wardrobe/Categories/Kobold.png"
+}
