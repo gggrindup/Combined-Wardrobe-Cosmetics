@@ -7,7 +7,7 @@
   },
   "CosmeticSlot": "Face",
   "Appearance": {
-    "Model": "Characters/Body_Attachments/Faces/Player_Face_Detached.blockymodel",
+    "Model": "Characters/Wardrobe/Cosmetics/DLSFace/Player_Face_Detached.blockymodel",
     "TextureConfig": {
       "Type": "Gradient",
       "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/DLSFace/Face_Stubble.png",
