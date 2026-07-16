@@ -1,0 +1,17 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "server.afella.wardrobe.tatoo.two_eye_scar_tatoo.name"
+    }
+  },
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Tatoo/Face/Face_Tatoo.blockymodel",
+    "TextureConfig": {
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Wardrobe/Cosmetics/Tatoo/Face/Textures/afella/two_eye_scar_tatoo_tx.png"
+    }
+  },
+  "CosmeticSlot": "Face_Tatoo",
+  "Icon": "Icons/Wardrobe/Cosmetics/Tatoo/Face/afella/two_eye_scar_tatoo.png"
+}
